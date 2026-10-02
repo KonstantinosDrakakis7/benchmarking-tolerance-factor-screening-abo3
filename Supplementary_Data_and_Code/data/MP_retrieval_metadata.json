@@ -1,0 +1,18 @@
+{
+  "retrieval_date_utc": "2026-10-02T07:41:49",
+  "mp_database_version": "2026.04.13",
+  "mp_api_version": "unknown",
+  "pymatgen_version": "2026.9.23",
+  "query": {
+    "elements": [
+      "O"
+    ],
+    "num_elements": 3
+  },
+  "post_filter": "reduced composition A1B1O3",
+  "energy_note": "energy_above_hull from the summary endpoint (default thermodynamic scheme of this database version)",
+  "n_ternary_oxides": 24020,
+  "n_abo3_entries": 2563,
+  "n_abo3_compositions": 1319,
+  "n_structures_saved": 2563
+}

@@ -1,0 +1,360 @@
+reduced_formula;bartel_exp_label;n_icsd_entries;label_lowest_icsd;any_icsd_perovskite
+AgBiO3;-1;1;non-perovskite (edge-sharing BO6);False
+AgBrO3;-1;0;;
+AgClO3;-1;1;non-perovskite (B not octahedral);False
+AgNO3;-1;4;non-perovskite (corner-sharing, A outside cavity);False
+AgPO3;-1;1;non-perovskite (B not octahedral);False
+AgSbO3;-1;2;non-perovskite (corner-sharing, A outside cavity);False
+AlBO3;-1;1;perovskite;True
+AlBiO3;1;1;perovskite;True
+AlFeO3;-1;1;non-perovskite (edge-sharing BO6);False
+BaCO3;-1;3;non-perovskite (B not octahedral);False
+BaCeO3;1;4;perovskite;True
+BaCoO3;-1;1;non-perovskite (face-sharing BO6);False
+BaCrO3;-1;3;non-perovskite (face-sharing BO6);False
+BaGeO3;-1;1;non-perovskite (B not octahedral);False
+BaHfO3;1;0;;
+BaIrO3;1;3;non-perovskite (face-sharing BO6);True
+BaMnO3;-1;5;non-perovskite (face-sharing BO6);False
+BaMoO3;1;1;perovskite;True
+BaNbO3;1;1;perovskite;True
+BaNiO3;-1;2;non-perovskite (face-sharing BO6);False
+BaNpO3;1;1;perovskite;True
+BaPaO3;1;1;perovskite;True
+BaPbO3;1;5;perovskite;True
+BaPuO3;1;2;perovskite;True
+BaRuO3;-1;3;non-perovskite (face-sharing BO6);False
+BaSiO3;-1;3;non-perovskite (B not octahedral);False
+BaSnO3;1;1;perovskite;True
+BaTeO3;-1;2;non-perovskite (B not octahedral);False
+BaThO3;1;1;perovskite;True
+BaTiO3;1;10;perovskite;True
+BaUO3;1;0;;
+BaZrO3;1;2;perovskite;True
+CaCO3;-1;10;non-perovskite (corner-sharing, A outside cavity);False
+CaCrO3;1;1;perovskite;True
+CaGeO3;1;3;non-perovskite (B not octahedral);True
+CaHfO3;1;0;;
+CaIrO3;1;4;non-perovskite (edge-sharing BO6);True
+CaMnO3;1;1;perovskite;True
+CaMoO3;1;1;perovskite;True
+CaNbO3;1;1;perovskite;True
+CaPbO3;1;1;perovskite;True
+CaRuO3;1;1;perovskite;True
+CaSiO3;1;7;non-perovskite (B not octahedral);True
+CaSnO3;1;4;perovskite;True
+CaTiO3;1;4;perovskite;True
+CaVO3;1;1;perovskite;True
+CaZrO3;1;2;perovskite;True
+CdCO3;-1;4;non-perovskite (corner-sharing, A outside cavity);True
+CdGeO3;1;4;non-perovskite (edge-sharing BO6);True
+CdPbO3;-1;0;;
+CdSO3;-1;3;non-perovskite (edge-sharing BO6);False
+CdSeO3;-1;2;perovskite;True
+CdSnO3;1;2;non-perovskite (edge-sharing BO6);True
+CdTeO3;-1;1;non-perovskite (edge-sharing BO6);False
+CeAlO3;1;4;perovskite;True
+CeCrO3;1;1;perovskite;True
+CeFeO3;1;0;;
+CeGaO3;1;2;perovskite;True
+CeLuO3;1;0;;
+CeTiO3;1;0;;
+CeTmO3;1;0;;
+CeVO3;1;2;perovskite;True
+CoCO3;-1;1;perovskite;True
+CoGeO3;-1;1;non-perovskite (edge-sharing BO6);False
+CoSeO3;-1;2;non-perovskite (edge-sharing BO6);True
+CoSiO3;-1;1;non-perovskite (edge-sharing BO6);False
+CoTeO3;-1;1;perovskite;True
+CrBO3;-1;1;perovskite;True
+CrMoO3;-1;0;;
+CsBrO3;-1;1;non-perovskite (B not octahedral);False
+CsIO3;1;2;non-perovskite (B not octahedral);True
+CsNbO3;-1;1;non-perovskite (edge-sharing BO6);False
+CsVO3;-1;1;non-perovskite (B not octahedral);False
+CuCO3;-1;1;non-perovskite (B not octahedral);False
+CuGeO3;-1;3;non-perovskite (B not octahedral);False
+CuSeO3;-1;4;non-perovskite (B not octahedral);False
+CuSiO3;-1;2;non-perovskite (B not octahedral);False
+CuTeO3;-1;3;non-perovskite (B not octahedral);False
+DyAlO3;1;1;perovskite;True
+DyBO3;-1;2;non-perovskite (B not octahedral);False
+DyCoO3;1;1;perovskite;True
+DyCrO3;1;1;perovskite;True
+DyFeO3;1;1;perovskite;True
+DyMnO3;1;2;non-perovskite (B not octahedral);True
+DyNiO3;1;1;perovskite;True
+DyRhO3;1;0;;
+DyScO3;1;1;perovskite;True
+DyTiO3;1;0;;
+DyVO3;1;1;perovskite;True
+ErAlO3;1;0;;
+ErBO3;-1;2;non-perovskite (B not octahedral);False
+ErCrO3;1;1;perovskite;True
+ErFeO3;1;1;perovskite;True
+ErMnO3;1;2;non-perovskite (B not octahedral);True
+ErNiO3;1;2;perovskite;True
+ErRhO3;1;0;;
+ErTiO3;1;0;;
+ErVO3;1;1;perovskite;True
+EuAlO3;1;1;perovskite;True
+EuBO3;-1;1;non-perovskite (B not octahedral);False
+EuCrO3;1;1;perovskite;True
+EuFeO3;1;1;perovskite;True
+EuGaO3;1;0;;
+EuMnO3;1;1;perovskite;True
+EuNiO3;1;1;perovskite;True
+EuRhO3;1;1;perovskite;True
+EuScO3;1;1;perovskite;True
+EuTiO3;1;2;perovskite;True
+FeBO3;-1;2;perovskite;True
+FeBiO3;1;8;perovskite;True
+FeSO3;-1;1;non-perovskite (edge-sharing BO6);False
+FeSiO3;-1;4;non-perovskite (B not octahedral);False
+GaFeO3;-1;1;non-perovskite (edge-sharing BO6);False
+GdAlO3;1;1;perovskite;True
+GdBO3;-1;3;non-perovskite (B not octahedral);False
+GdCoO3;1;0;;
+GdCrO3;1;1;perovskite;True
+GdFeO3;1;1;perovskite;True
+GdGaO3;1;1;perovskite;True
+GdMnO3;1;1;perovskite;True
+GdNiO3;1;1;perovskite;True
+GdRhO3;1;0;;
+GdScO3;1;1;perovskite;True
+GdTiO3;1;1;perovskite;True
+GdVO3;1;1;perovskite;True
+GePbO3;1;3;non-perovskite (B not octahedral);True
+HfPbO3;1;3;perovskite;True
+HgSeO3;-1;3;non-perovskite (B not octahedral);False
+HgTeO3;-1;1;non-perovskite (B not octahedral);False
+HoAlO3;1;1;perovskite;True
+HoBO3;-1;0;;
+HoCoO3;1;1;perovskite;True
+HoCrO3;1;1;perovskite;True
+HoFeO3;1;1;perovskite;True
+HoMnO3;1;2;non-perovskite (B not octahedral);True
+HoNiO3;1;1;perovskite;True
+HoRhO3;1;0;;
+HoScO3;1;1;perovskite;True
+HoTiO3;1;0;;
+InBO3;-1;1;non-perovskite (corner-sharing, A outside cavity);False
+InBiO3;1;2;non-perovskite (corner-sharing, A outside cavity);True
+InFeO3;-1;1;non-perovskite (edge-sharing BO6);False
+InGaO3;-1;1;non-perovskite (edge-sharing BO6);False
+KBiO3;-1;1;non-perovskite (edge-sharing BO6);False
+KBrO3;-1;1;non-perovskite (B not octahedral);False
+KClO3;-1;3;non-perovskite (B not octahedral);False
+KIO3;1;5;non-perovskite (B not octahedral);True
+KNO3;-1;5;non-perovskite (B not octahedral);False
+KNbO3;1;4;perovskite;True
+KPO3;-1;5;non-perovskite (B not octahedral);False
+KPaO3;1;0;;
+KSbO3;-1;3;non-perovskite (edge-sharing BO6);False
+KTaO3;1;1;perovskite;True
+KUO3;1;1;perovskite;True
+KVO3;-1;1;non-perovskite (B not octahedral);False
+LaAlO3;1;2;perovskite;True
+LaBO3;-1;2;non-perovskite (B not octahedral);False
+LaCoO3;1;5;perovskite;True
+LaCrO3;1;3;perovskite;True
+LaCuO3;1;1;perovskite;True
+LaErO3;1;1;perovskite;True
+LaFeO3;1;3;perovskite;True
+LaGaO3;1;5;perovskite;True
+LaHoO3;1;1;perovskite;True
+LaInO3;1;1;perovskite;True
+LaLuO3;1;1;perovskite;True
+LaMnO3;1;6;perovskite;True
+LaNiO3;1;1;perovskite;True
+LaRhO3;1;1;perovskite;True
+LaRuO3;1;1;perovskite;True
+LaScO3;1;1;perovskite;True
+LaTiO3;1;2;perovskite;True
+LaTlO3;-1;1;non-perovskite (edge-sharing BO6);False
+LaTmO3;1;1;perovskite;True
+LaVO3;1;2;perovskite;True
+LaYO3;1;1;perovskite;True
+LiAsO3;-1;2;non-perovskite (edge-sharing BO6);False
+LiBiO3;-1;1;non-perovskite (edge-sharing BO6);False
+LiIO3;-1;6;non-perovskite (B not octahedral);False
+LiNO3;-1;2;non-perovskite (corner-sharing, A outside cavity);False
+LiNbO3;-1;4;non-perovskite (corner-sharing, A outside cavity);True
+LiPO3;-1;3;non-perovskite (B not octahedral);False
+LiReO3;-1;1;non-perovskite (corner-sharing, A outside cavity);False
+LiSbO3;-1;1;non-perovskite (edge-sharing BO6);False
+LiTaO3;-1;3;non-perovskite (corner-sharing, A outside cavity);False
+LiVO3;-1;1;non-perovskite (B not octahedral);False
+LuBO3;-1;1;non-perovskite (corner-sharing, A outside cavity);False
+LuCrO3;1;1;perovskite;True
+LuFeO3;1;2;non-perovskite (B not octahedral);True
+LuMnO3;1;2;non-perovskite (B not octahedral);True
+LuTiO3;1;0;;
+MgCO3;-1;1;non-perovskite (corner-sharing, A outside cavity);False
+MgGeO3;-1;4;non-perovskite (edge-sharing BO6);False
+MgSeO3;-1;1;perovskite;True
+MgSiO3;1;13;non-perovskite (edge-sharing BO6);True
+MgTiO3;-1;1;non-perovskite (edge-sharing BO6);False
+MgVO3;-1;2;non-perovskite (B not octahedral);False
+MnBiO3;1;5;perovskite;True
+MnCO3;-1;2;non-perovskite (corner-sharing, A outside cavity);False
+MnCoO3;-1;1;non-perovskite (edge-sharing BO6);False
+MnFeO3;-1;0;;
+MnGeO3;-1;3;non-perovskite (edge-sharing BO6);False
+MnInO3;-1;3;non-perovskite (B not octahedral);False
+MnNiO3;-1;1;non-perovskite (edge-sharing BO6);False
+MnSO3;-1;2;non-perovskite (edge-sharing BO6);False
+MnSeO3;-1;3;non-perovskite (edge-sharing BO6);True
+MnSiO3;-1;4;non-perovskite (B not octahedral);False
+MnSnO3;-1;1;non-perovskite (edge-sharing BO6);False
+NaAsO3;-1;1;non-perovskite (edge-sharing BO6);False
+NaBiO3;-1;1;non-perovskite (edge-sharing BO6);False
+NaBrO3;-1;2;non-perovskite (corner-sharing, A outside cavity);False
+NaClO3;-1;4;non-perovskite (corner-sharing, A outside cavity);False
+NaIO3;1;3;perovskite;True
+NaNO3;-1;1;non-perovskite (corner-sharing, A outside cavity);False
+NaNbO3;1;14;perovskite;True
+NaPO3;-1;6;non-perovskite (edge-sharing BO6);False
+NaPaO3;1;0;;
+NaSbO3;1;3;non-perovskite (edge-sharing BO6);True
+NaTaO3;1;4;perovskite;True
+NaUO3;1;1;perovskite;True
+NaVO3;-1;2;non-perovskite (edge-sharing BO6);False
+NaWO3;1;1;perovskite;True
+NbAgO3;1;4;perovskite;True
+NbCuO3;-1;1;non-perovskite (edge-sharing BO6);False
+NdAlO3;1;2;perovskite;True
+NdCoO3;1;2;perovskite;True
+NdCrO3;1;2;perovskite;True
+NdFeO3;1;3;perovskite;True
+NdGaO3;1;2;perovskite;True
+NdInO3;1;0;;
+NdMnO3;1;2;perovskite;True
+NdNiO3;1;1;perovskite;True
+NdRhO3;1;1;perovskite;True
+NdScO3;1;1;perovskite;True
+NdTiO3;1;1;perovskite;True
+NdVO3;1;2;perovskite;True
+NiSeO3;-1;2;perovskite;True
+PbCO3;-1;2;non-perovskite (B not octahedral);False
+PbSO3;-1;2;non-perovskite (B not octahedral);False
+PbSeO3;-1;2;non-perovskite (B not octahedral);False
+PrAlO3;1;2;perovskite;True
+PrCoO3;1;2;perovskite;True
+PrCrO3;1;2;perovskite;True
+PrFeO3;1;1;perovskite;True
+PrGaO3;1;2;perovskite;True
+PrLuO3;1;1;perovskite;True
+PrMnO3;1;1;perovskite;True
+PrNiO3;1;2;perovskite;True
+PrRhO3;1;1;perovskite;True
+PrRuO3;1;1;perovskite;True
+PrScO3;1;1;perovskite;True
+PrTiO3;1;0;;
+PrVO3;1;2;perovskite;True
+PuCrO3;1;0;;
+PuVO3;1;0;;
+RbBrO3;-1;1;non-perovskite (B not octahedral);False
+RbClO3;-1;1;non-perovskite (B not octahedral);False
+RbIO3;1;1;non-perovskite (B not octahedral);False
+RbNO3;-1;3;non-perovskite (B not octahedral);False
+RbNbO3;1;1;non-perovskite (edge-sharing BO6);False
+RbPO3;-1;4;non-perovskite (B not octahedral);False
+RbPaO3;1;0;;
+RbTaO3;1;1;non-perovskite (edge-sharing BO6);False
+RbUO3;1;1;perovskite;True
+RbVO3;-1;1;non-perovskite (B not octahedral);False
+SbAsO3;-1;1;non-perovskite (B not octahedral);False
+ScAlO3;1;1;perovskite;True
+ScBO3;-1;1;non-perovskite (corner-sharing, A outside cavity);False
+ScBiO3;1;1;perovskite;True
+ScCrO3;1;1;perovskite;True
+SiPbO3;-1;1;non-perovskite (B not octahedral);False
+SmAlO3;1;1;perovskite;True
+SmBO3;-1;1;non-perovskite (B not octahedral);False
+SmCoO3;1;2;perovskite;True
+SmCrO3;1;2;perovskite;True
+SmFeO3;1;2;perovskite;True
+SmInO3;1;0;;
+SmMnO3;1;1;perovskite;True
+SmNiO3;1;1;perovskite;True
+SmRhO3;1;1;perovskite;True
+SmScO3;1;1;perovskite;True
+SmTiO3;1;1;perovskite;True
+SmVO3;1;2;perovskite;True
+SmYO3;-1;0;;
+SrCO3;-1;1;non-perovskite (B not octahedral);False
+SrCeO3;1;1;perovskite;True
+SrCoO3;1;2;perovskite;True
+SrGeO3;1;4;non-perovskite (B not octahedral);True
+SrHfO3;1;4;perovskite;True
+SrIrO3;1;2;non-perovskite (face-sharing BO6);True
+SrMnO3;1;4;non-perovskite (face-sharing BO6);True
+SrMoO3;1;2;perovskite;True
+SrNbO3;1;2;perovskite;True
+SrPbO3;1;1;perovskite;True
+SrPuO3;1;0;;
+SrRuO3;1;4;perovskite;True
+SrSiO3;-1;4;non-perovskite (B not octahedral);True
+SrSnO3;1;4;perovskite;True
+SrTeO3;-1;4;non-perovskite (B not octahedral);False
+SrTiO3;1;1;perovskite;True
+SrVO3;1;1;perovskite;True
+SrZrO3;1;6;perovskite;True
+TaAgO3;1;1;perovskite;True
+TbAlO3;1;1;perovskite;True
+TbCoO3;1;1;perovskite;True
+TbCrO3;1;1;perovskite;True
+TbFeO3;1;1;perovskite;True
+TbMnO3;1;2;perovskite;True
+TbRhO3;1;1;perovskite;True
+TbTiO3;1;0;;
+TePbO3;-1;2;non-perovskite (B not octahedral);False
+TiBO3;-1;1;non-perovskite (corner-sharing, A outside cavity);False
+TiCdO3;1;5;non-perovskite (edge-sharing BO6);True
+TiCoO3;-1;1;non-perovskite (edge-sharing BO6);False
+TiFeO3;-1;2;non-perovskite (edge-sharing BO6);False
+TiHgO3;1;1;perovskite;True
+TiMnO3;-1;3;non-perovskite (edge-sharing BO6);True
+TiNiO3;-1;1;non-perovskite (edge-sharing BO6);False
+TiPbO3;1;3;perovskite;True
+TiZnO3;-1;2;non-perovskite (edge-sharing BO6);False
+TlBrO3;-1;1;non-perovskite (B not octahedral);False
+TlIO3;1;2;non-perovskite (B not octahedral);True
+TlNO3;-1;3;non-perovskite (B not octahedral);False
+TlNiO3;1;2;perovskite;True
+TlSbO3;-1;2;non-perovskite (edge-sharing BO6);False
+TlVO3;-1;1;non-perovskite (B not octahedral);False
+TmAlO3;1;0;;
+TmBO3;-1;1;non-perovskite (edge-sharing BO6);False
+TmCrO3;1;1;perovskite;True
+TmFeO3;1;2;non-perovskite (B not octahedral);True
+TmNiO3;1;2;perovskite;True
+TmTiO3;1;0;;
+VAgO3;-1;2;non-perovskite (edge-sharing BO6);False
+VBO3;-1;1;perovskite;True
+VCrO3;-1;0;;
+VCuO3;-1;2;non-perovskite (edge-sharing BO6);True
+YAlO3;1;2;perovskite;True
+YBO3;-1;1;non-perovskite (B not octahedral);False
+YCoO3;1;1;perovskite;True
+YCrO3;1;1;perovskite;True
+YFeO3;1;1;perovskite;True
+YGaO3;1;1;non-perovskite (B not octahedral);False
+YInO3;-1;1;non-perovskite (B not octahedral);False
+YMnO3;1;3;non-perovskite (B not octahedral);True
+YNiO3;1;1;perovskite;True
+YScO3;1;1;perovskite;True
+YTiO3;1;1;perovskite;True
+YTmO3;-1;0;;
+YVO3;1;1;perovskite;True
+YbAlO3;1;0;;
+YbCrO3;1;0;;
+YbNiO3;1;0;;
+YbTiO3;1;0;;
+ZnGeO3;-1;1;non-perovskite (edge-sharing BO6);False
+ZnSeO3;-1;2;non-perovskite (B not octahedral);True
+ZnSiO3;-1;3;non-perovskite (B not octahedral);False
+ZnSnO3;-1;2;non-perovskite (corner-sharing, A outside cavity);False
+ZnTeO3;-1;1;non-perovskite (B not octahedral);False
+ZrPbO3;1;4;perovskite;True

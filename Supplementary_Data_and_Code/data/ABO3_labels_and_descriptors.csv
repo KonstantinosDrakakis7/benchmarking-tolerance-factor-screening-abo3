@@ -1,0 +1,441 @@
+Formula;L1_topology;L2;L1;key;exp_label;in_bartel;oxy;bartel_t;bartel_mu;bartel_tau;bartel_nA;bartel_nB
+AgAsO3;non-perovskite (B not octahedral);False;False;(('Ag', 1), ('As', 1), ('O', 3));;False;True;1.0188420288064233;0.3285714285714286;4.762492297673209;1.0;5.0
+AgBiO3;non-perovskite (edge-sharing BO6);False;False;(('Ag', 1), ('Bi', 1), ('O', 3));-1.0;True;False;0.8773361914721977;0.5428571428571429;4.072913752449061;1.0;5.0
+AgClO3;non-perovskite (B not octahedral);False;False;(('Ag', 1), ('Cl', 1), ('O', 3));-1.0;True;True;1.2467409036710178;0.0857142857142857;15.17283888470681;1.0;5.0
+AgIO3;non-perovskite (B not octahedral);False;False;(('Ag', 1), ('I', 1), ('O', 3));;False;True;0.8064026270552968;0.6785714285714286;4.992728924233968;1.0;5.0
+AgNO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Ag', 1), ('N', 1), ('O', 3));-1.0;True;True;1.238592270313691;0.0928571428571428;14.074349061439428;1.0;5.0
+AgPO3;non-perovskite (B not octahedral);False;False;(('Ag', 1), ('O', 3), ('P', 1));-1.0;True;True;1.0646326817864873;0.2714285714285714;5.457842545279114;1.0;5.0
+AgSbO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Ag', 1), ('O', 3), ('Sb', 1));-1.0;True;False;0.9475230867899735;0.4285714285714286;4.1489247171403925;1.0;5.0
+AgTeO3;non-perovskite (B not octahedral);False;False;(('Ag', 1), ('O', 3), ('Te', 1));;False;True;;;;;
+AlBO3;non-perovskite (A under-coordinated);False;False;(('Al', 1), ('B', 1), ('O', 3));-1.0;True;True;0.8193123482610596;0.1928571428571429;4.877865965453556;3.0;3.0
+AlBiO3;perovskite;True;True;(('Al', 1), ('Bi', 1), ('O', 3));1.0;True;False;0.93915474297128;0.3821428571428572;2.001247201535822;3.0;3.0
+AlFeO3;non-perovskite (edge-sharing BO6);False;False;(('Al', 1), ('Fe', 1), ('O', 3));-1.0;True;False;0.7966370971507355;0.3821428571428572;5.217662081229486;3.0;3.0
+BaBiO3;perovskite;True;True;(('Ba', 1), ('Bi', 1), ('O', 3));;False;False;;;;;
+BaCO3;non-perovskite (B not octahedral);False;False;(('Ba', 1), ('C', 1), ('O', 3));-1.0;True;True;1.3643534688278898;0.1142857142857143;13.466590284391756;2.0;4.0
+BaCeO3;perovskite;True;True;(('Ba', 1), ('Ce', 1), ('O', 3));1.0;True;False;0.9376173618376686;0.6214285714285714;3.6224724082218094;2.0;4.0
+BaCoO3;non-perovskite (face-sharing BO6);False;False;(('Ba', 1), ('Co', 1), ('O', 3));-1.0;True;False;1.1027934773945636;0.3785714285714286;4.109427366374311;2.0;4.0
+BaCrO3;non-perovskite (face-sharing BO6);False;False;(('Ba', 1), ('Cr', 1), ('O', 3));-1.0;True;False;1.0914827750623115;0.3928571428571429;3.996252932854992;2.0;4.0
+BaFeO3;non-perovskite (face-sharing BO6);True;False;(('Ba', 1), ('Fe', 1), ('O', 3));;False;False;1.0722374868370317;0.4178571428571428;3.830139115922958;2.0;4.0
+BaGeO3;non-perovskite (B not octahedral);False;False;(('Ba', 1), ('Ge', 1), ('O', 3));-1.0;True;True;1.1027934773945636;0.3785714285714286;4.109427366374311;2.0;4.0
+BaIrO3;non-perovskite (face-sharing BO6);True;False;(('Ba', 1), ('Ir', 1), ('O', 3));1.0;True;False;1.0510574870970408;0.4464285714285714;3.684720085293605;2.0;4.0
+BaMnO3;non-perovskite (face-sharing BO6);False;False;(('Ba', 1), ('Mn', 1), ('O', 3));-1.0;True;False;1.1027934773945636;0.3785714285714286;4.109427366374311;2.0;4.0
+BaMoO3;perovskite;True;True;(('Ba', 1), ('Mo', 1), ('O', 3));1.0;True;False;1.03823971286415;0.4642857142857143;3.615536105082425;2.0;4.0
+BaNbO3;perovskite;True;True;(('Ba', 1), ('Nb', 1), ('O', 3));1.0;True;False;1.023265101620917;0.4857142857142857;3.552862824911479;2.0;4.0
+BaNiO3;non-perovskite (face-sharing BO6);False;False;(('Ba', 1), ('Ni', 1), ('O', 3));-1.0;True;False;1.1321230911550575;0.3428571428571428;4.459812213847892;2.0;4.0
+BaNpO3;perovskite;True;True;(('Ba', 1), ('Np', 1), ('O', 3));1.0;True;False;0.9376173618376686;0.6214285714285714;3.6224724082218094;2.0;4.0
+BaOsO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Os', 1));;False;False;1.048468675552467;0.45;3.6696020594041583;2.0;4.0
+BaPaO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Pa', 1));1.0;True;False;0.9253875701615252;0.6428571428571429;3.707224081185826;2.0;4.0
+BaPbO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Pb', 1));1.0;True;False;0.9785707638489692;0.5535714285714286;3.48924264193269;2.0;4.0
+BaPrO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Pr', 1));;False;False;0.9459517383873368;0.6071428571428572;3.577731009295161;2.0;4.0
+BaPuO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Pu', 1));1.0;True;False;0.9417661112263308;0.6142857142857143;3.5989520908502293;2.0;4.0
+BaRhO3;non-perovskite (face-sharing BO6);False;False;(('Ba', 1), ('O', 3), ('Rh', 1));;False;False;1.0641957056857538;0.4285714285714286;3.7703561476021754;2.0;4.0
+BaRuO3;non-perovskite (face-sharing BO6);False;False;(('Ba', 1), ('O', 3), ('Ru', 1));-1.0;True;False;1.0536591145403504;0.4428571428571429;3.700495375608381;2.0;4.0
+BaSeO3;non-perovskite (B not octahedral);False;False;(('Ba', 1), ('O', 3), ('Se', 1));;False;True;1.120206005985004;0.3571428571428571;4.307185442432095;2.0;4.0
+BaSiO3;non-perovskite (B not octahedral);False;False;(('Ba', 1), ('O', 3), ('Si', 1));-1.0;True;True;1.182439672984171;0.2857142857142857;5.280866063622231;2.0;4.0
+BaSnO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Sn', 1));1.0;True;False;1.0183690963500038;0.4928571428571428;3.536690512584244;2.0;4.0
+BaTbO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Tb', 1));;False;False;0.9853663941534758;0.5428571428571429;3.4861783202829155;2.0;4.0
+BaTcO3;non-perovskite (face-sharing BO6);False;False;(('Ba', 1), ('O', 3), ('Tc', 1));;False;False;1.0407781962696858;0.4607142857142857;3.62810735248151;2.0;4.0
+BaTeO3;non-perovskite (B not octahedral);False;False;(('Ba', 1), ('O', 3), ('Te', 1));-1.0;True;True;0.8980554478360793;0.6928571428571428;3.9947711560688894;2.0;4.0
+BaThO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Th', 1));1.0;True;False;0.9095689792185933;0.6714285714285715;3.855224762238468;2.0;4.0
+BaTiO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Ti', 1));1.0;True;False;1.0615418510581087;0.4321428571428571;3.75185723325169;2.0;4.0
+BaVO3;non-perovskite (face-sharing BO6);True;False;(('Ba', 1), ('O', 3), ('V', 1));;False;False;1.0749451572583373;0.4142857142857142;3.8515348101231663;2.0;4.0
+BaZrO3;perovskite;True;True;(('Ba', 1), ('O', 3), ('Zr', 1));1.0;True;False;1.0039582129110884;0.5142857142857143;3.5018070336183063;2.0;4.0
+BiBO3;non-perovskite (edge-sharing BO6);False;False;(('B', 1), ('Bi', 1), ('O', 3));;False;True;1.088182292005645;0.1928571428571429;5.050813884524435;3.0;3.0
+BiRhO3;perovskite;True;True;(('Bi', 1), ('O', 3), ('Rh', 1));;False;False;0.880031199830231;0.475;2.4476652749960337;3.0;3.0
+BrNO3;non-perovskite (B not octahedral);False;False;(('Br', 1), ('N', 1), ('O', 3));;False;True;0.9020144195905316;0.1142857142857143;8.227344600849348;3.0;3.0
+CaBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('Ca', 1), ('O', 3));;False;True;;;;;
+CaCO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('C', 1), ('Ca', 1), ('O', 3));-1.0;True;True;1.2419696028532952;0.1142857142857143;12.63142171796452;2.0;4.0
+CaCrO3;perovskite;True;True;(('Ca', 1), ('Cr', 1), ('O', 3));1.0;True;False;0.993575682282636;0.3928571428571429;4.017314262373017;2.0;4.0
+CaFeO3;perovskite;True;True;(('Ca', 1), ('Fe', 1), ('O', 3));;False;False;0.976056715592514;0.4178571428571428;3.9205809164253513;2.0;4.0
+CaGeO3;non-perovskite (B not octahedral);True;False;(('Ca', 1), ('Ge', 1), ('O', 3));1.0;True;True;1.0038718033425598;0.3785714285714286;4.093091878095905;2.0;4.0
+CaIrO3;non-perovskite (edge-sharing BO6);True;False;(('Ca', 1), ('Ir', 1), ('O', 3));1.0;True;False;0.9567765829388348;0.4464285714285714;3.8623291405378857;2.0;4.0
+CaMnO3;perovskite;True;True;(('Ca', 1), ('Mn', 1), ('O', 3));1.0;True;False;1.0038718033425598;0.3785714285714286;4.093091878095905;2.0;4.0
+CaMoO3;perovskite;True;True;(('Ca', 1), ('Mo', 1), ('O', 3));1.0;True;False;0.9451085758298244;0.4642857142857143;3.853013344210262;2.0;4.0
+CaNbO3;perovskite;True;True;(('Ca', 1), ('Nb', 1), ('O', 3));1.0;True;False;0.9314772021399712;0.4857142857142857;3.868922301012189;2.0;4.0
+CaPbO3;perovskite;True;True;(('Ca', 1), ('O', 3), ('Pb', 1));1.0;True;False;0.8907919910120186;0.5535714285714286;4.121837592209068;2.0;4.0
+CaPtO3;non-perovskite (edge-sharing BO6);False;False;(('Ca', 1), ('O', 3), ('Pt', 1));;False;False;0.9567765829388348;0.4464285714285714;3.8623291405378857;2.0;4.0
+CaRhO3;non-perovskite (edge-sharing BO6);True;False;(('Ca', 1), ('O', 3), ('Rh', 1));;False;False;0.96873629022557;0.4285714285714286;3.892378934265968;2.0;4.0
+CaRuO3;perovskite;True;True;(('Ca', 1), ('O', 3), ('Ru', 1));1.0;True;False;0.9591448418074952;0.4428571428571429;3.866667442176346;2.0;4.0
+CaSeO3;non-perovskite (B not octahedral);False;False;(('Ca', 1), ('O', 3), ('Se', 1));;False;True;1.019722410763758;0.3571428571428571;4.23711572959637;2.0;4.0
+CaSiO3;non-perovskite (B not octahedral);True;False;(('Ca', 1), ('O', 3), ('Si', 1));1.0;True;True;1.0763736558061892;0.2857142857142857;5.041951829165683;2.0;4.0
+CaSnO3;perovskite;True;True;(('Ca', 1), ('O', 3), ('Sn', 1));1.0;True;False;0.9270203734215984;0.4928571428571428;3.880820872752607;2.0;4.0
+CaTcO3;perovskite;True;True;(('Ca', 1), ('O', 3), ('Tc', 1));;False;False;0.947419354743834;0.4607142857142857;3.853233056287206;2.0;4.0
+CaTeO3;non-perovskite (B not octahedral);False;False;(('Ca', 1), ('O', 3), ('Te', 1));;False;True;0.8174989790933082;0.6928571428571428;5.993717299325619;2.0;4.0
+CaTiO3;perovskite;True;True;(('Ca', 1), ('O', 3), ('Ti', 1));1.0;True;False;0.9663204890030626;0.4321428571428571;3.884688326617454;2.0;4.0
+CaVO3;perovskite;True;True;(('Ca', 1), ('O', 3), ('V', 1));1.0;True;False;0.9785215052783536;0.4142857142857142;3.931714492254149;2.0;4.0
+CaZrO3;perovskite;True;True;(('Ca', 1), ('O', 3), ('Zr', 1));1.0;True;False;0.9139021605901604;0.5142857142857143;3.936685159827522;2.0;4.0
+CdCO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('C', 1), ('Cd', 1), ('O', 3));-1.0;True;True;1.2283713955227846;0.1142857142857143;12.537944933028855;2.0;4.0
+CdGeO3;non-perovskite (edge-sharing BO6);True;False;(('Cd', 1), ('Ge', 1), ('O', 3));1.0;True;True;0.9928805062256704;0.3785714285714286;4.104396685716461;2.0;4.0
+CdSO3;non-perovskite (edge-sharing BO6);False;False;(('Cd', 1), ('O', 3), ('S', 1));-1.0;True;True;1.0826324163929626;0.2642857142857143;5.384666802167985;2.0;4.0
+CdSeO3;non-perovskite (A under-coordinated);False;False;(('Cd', 1), ('O', 3), ('Se', 1));-1.0;True;True;1.0085575668502862;0.3571428571428571;4.240344393853459;2.0;4.0
+CdSiO3;non-perovskite (edge-sharing BO6);False;False;(('Cd', 1), ('O', 3), ('Si', 1));;False;True;1.0645885427864132;0.2857142857142857;5.021285795888538;2.0;4.0
+CdSnO3;non-perovskite (edge-sharing BO6);True;False;(('Cd', 1), ('O', 3), ('Sn', 1));1.0;True;False;0.916870515318442;0.4928571428571428;3.951861547718046;2.0;4.0
+CdTcO3;perovskite;True;True;(('Cd', 1), ('O', 3), ('Tc', 1));;False;False;0.9370461501298502;0.4607142857142857;3.9035440160043753;2.0;4.0
+CdTeO3;non-perovskite (edge-sharing BO6);False;False;(('Cd', 1), ('O', 3), ('Te', 1));-1.0;True;True;0.7131247112391991;0.6785714285714286;181.508698625228;4.0;2.0
+CeAlO3;perovskite;True;True;(('Al', 1), ('Ce', 1), ('O', 3));1.0;True;False;1.0012778193545944;0.3821428571428572;1.80061813429948;3.0;3.0
+CeAsO3;non-perovskite (B not octahedral);False;False;(('As', 1), ('Ce', 1), ('O', 3));;False;True;0.9785215052783536;0.4142857142857142;1.690675186657085;3.0;3.0
+CeBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('Ce', 1), ('O', 3));;False;True;1.16016322182703;0.1928571428571429;5.479106296933504;3.0;3.0
+CeCrO3;perovskite;True;True;(('Ce', 1), ('Cr', 1), ('O', 3));1.0;True;False;0.8163869200971956;0.5714285714285715;1.8438837569282391;4.0;2.0
+CeGaO3;perovskite;True;True;(('Ce', 1), ('Ga', 1), ('O', 3));1.0;True;False;0.9591448418074952;0.4428571428571429;1.6709689052000023;3.0;3.0
+CeScO3;perovskite;True;True;(('Ce', 1), ('O', 3), ('Sc', 1));;False;False;0.9032506202569418;0.5321428571428571;2.0710162339619185;3.0;3.0
+CeVO3;perovskite;True;True;(('Ce', 1), ('O', 3), ('V', 1));1.0;True;False;0.8201147142528907;0.5642857142857144;1.5107818091696554;4.0;2.0
+CoBiO3;perovskite;True;True;(('Bi', 1), ('Co', 1), ('O', 3));;False;False;0.9041116555469788;0.4357142857142857;2.1298704467213376;3.0;3.0
+CoCO3;non-perovskite (A under-coordinated);False;False;(('C', 1), ('Co', 1), ('O', 3));-1.0;True;True;1.042529228672474;0.1142857142857143;11.263353148268235;2.0;4.0
+CoGeO3;non-perovskite (edge-sharing BO6);False;False;(('Co', 1), ('Ge', 1), ('O', 3));-1.0;True;True;0.780382095299143;0.3785714285714286;7.245495608993011;2.0;4.0
+CoSeO3;non-perovskite (edge-sharing BO6);False;False;(('Co', 1), ('O', 3), ('Se', 1));-1.0;True;True;0.8559713666995048;0.3571428571428571;4.924671100865292;2.0;4.0
+CoSiO3;non-perovskite (edge-sharing BO6);False;False;(('Co', 1), ('O', 3), ('Si', 1));-1.0;True;True;0.903525331516144;0.2857142857142857;5.04918279034697;2.0;4.0
+CoTeO3;non-perovskite (A under-coordinated);False;False;(('Co', 1), ('O', 3), ('Te', 1));-1.0;True;True;0.7812788211711503;0.5321428571428571;5.6132597353645295;4.0;2.0
+CrBO3;non-perovskite (A under-coordinated);False;False;(('B', 1), ('Cr', 1), ('O', 3));-1.0;True;True;0.8531857270005347;0.1928571428571429;4.486121494631983;3.0;3.0
+CrBiO3;perovskite;True;True;(('Bi', 1), ('Cr', 1), ('O', 3));;False;False;0.901868202307408;0.4392857142857143;2.150611627730524;3.0;3.0
+CrFeO3;non-perovskite (edge-sharing BO6);False;False;(('Cr', 1), ('Fe', 1), ('O', 3));;False;False;0.7650088253035601;0.4392857142857143;9.285391518934986;3.0;3.0
+CrInO3;perovskite;True;True;(('Cr', 1), ('In', 1), ('O', 3));;False;False;0.8141378324331466;0.4392857142857143;4.419288693748933;3.0;3.0
+CrPbO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Pb', 1));;False;False;1.047968511604678;0.3928571428571429;3.9820494543250895;2.0;4.0
+CsBrO3;non-perovskite (B not octahedral);False;False;(('Br', 1), ('Cs', 1), ('O', 3));-1.0;True;True;1.356321779118056;0.2214285714285714;6.880716188166106;1.0;5.0
+CsIO3;non-perovskite (B not octahedral);False;False;(('Cs', 1), ('I', 1), ('O', 3));1.0;True;True;0.9869405286348408;0.6785714285714286;3.372964369788865;1.0;5.0
+CsNO3;non-perovskite (B not octahedral);False;False;(('Cs', 1), ('N', 1), ('O', 3));;False;True;1.515889047249592;0.0928571428571428;15.182511132604317;1.0;5.0
+CsNbO3;non-perovskite (edge-sharing BO6);False;False;(('Cs', 1), ('Nb', 1), ('O', 3));-1.0;True;False;1.1369167854371938;0.4571428571428572;3.913569132708609;1.0;5.0
+CsSO3;non-perovskite (B not octahedral);False;False;(('Cs', 1), ('O', 3), ('S', 1));;False;True;;;;;
+CsVO3;non-perovskite (B not octahedral);False;False;(('Cs', 1), ('O', 3), ('V', 1));-1.0;True;False;1.1955207434494204;0.3857142857142858;4.383453459389176;1.0;5.0
+CuCO3;non-perovskite (B not octahedral);False;False;(('C', 1), ('Cu', 1), ('O', 3));-1.0;True;True;0.9654727204662475;0.1142857142857143;10.761710935804285;2.0;4.0
+CuGeO3;non-perovskite (B not octahedral);False;False;(('Cu', 1), ('Ge', 1), ('O', 3));-1.0;True;True;0.780382095299143;0.3785714285714286;7.245495608993011;2.0;4.0
+CuSeO3;non-perovskite (B not octahedral);False;False;(('Cu', 1), ('O', 3), ('Se', 1));-1.0;True;True;0.792703917856498;0.3571428571428571;6.515958941539598;2.0;4.0
+CuSiO3;non-perovskite (B not octahedral);False;False;(('Cu', 1), ('O', 3), ('Si', 1));-1.0;True;True;0.8367430244040812;0.2857142857142857;5.567356093398351;2.0;4.0
+CuTeO3;non-perovskite (B not octahedral);False;False;(('Cu', 1), ('O', 3), ('Te', 1));-1.0;True;True;0.7867807847005247;0.5214285714285715;4.616276985990359;4.0;2.0
+DyAlO3;perovskite;True;True;(('Al', 1), ('Dy', 1), ('O', 3));1.0;True;False;0.9073623450574662;0.3821428571428572;2.228131036834178;3.0;3.0
+DyBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('Dy', 1), ('O', 3));-1.0;True;True;1.0513449926264655;0.1928571428571429;4.84806622369513;3.0;3.0
+DyCoO3;perovskite;True;True;(('Co', 1), ('Dy', 1), ('O', 3));1.0;True;False;0.8735055411374116;0.4357142857142857;2.5737216555485265;3.0;3.0
+DyCrO3;perovskite;True;True;(('Cr', 1), ('Dy', 1), ('O', 3));1.0;True;False;0.871338033591165;0.4392857142857143;2.6123933854822186;3.0;3.0
+DyFeO3;perovskite;True;True;(('Dy', 1), ('Fe', 1), ('O', 3));1.0;True;False;0.8585555685507076;0.4607142857142857;2.890382826921087;3.0;3.0
+DyGaO3;perovskite;True;True;(('Dy', 1), ('Ga', 1), ('O', 3));;False;False;0.8691812562802955;0.4428571428571429;2.6531832140820857;3.0;3.0
+DyMnO3;non-perovskite (B not octahedral);True;False;(('Dy', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.8585555685507076;0.4607142857142857;2.890382826921087;3.0;3.0
+DyNiO3;perovskite;True;True;(('Dy', 1), ('Ni', 1), ('O', 3));1.0;True;False;0.8778730688430986;0.4285714285714286;2.5025872174001824;3.0;3.0
+DyScO3;perovskite;True;True;(('Dy', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.818529667918973;0.5321428571428571;4.536514994229831;3.0;3.0
+DyVO3;perovskite;True;True;(('Dy', 1), ('O', 3), ('V', 1));1.0;True;False;0.8606598714148025;0.4571428571428572;2.8383545615838166;3.0;3.0
+ErBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('Er', 1), ('O', 3));-1.0;True;True;1.0424532307073533;0.1928571428571429;4.8015487636030025;3.0;3.0
+ErCoO3;perovskite;True;True;(('Co', 1), ('Er', 1), ('O', 3));;False;False;0.8661178583488955;0.4357142857142857;2.715135200510728;3.0;3.0
+ErCrO3;perovskite;True;True;(('Cr', 1), ('Er', 1), ('O', 3));1.0;True;False;0.8639686825217271;0.4392857142857143;2.759512112511397;3.0;3.0
+ErFeO3;perovskite;True;True;(('Er', 1), ('Fe', 1), ('O', 3));1.0;True;False;0.8512943253209192;0.4607142857142857;3.076181604992412;3.0;3.0
+ErMnO3;non-perovskite (B not octahedral);True;False;(('Er', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.8512943253209192;0.4607142857142857;3.076181604992412;3.0;3.0
+ErNiO3;perovskite;True;True;(('Er', 1), ('Ni', 1), ('O', 3));1.0;True;False;0.8704484476406399;0.4285714285714286;2.6331410615645483;3.0;3.0
+ErVO3;perovskite;True;True;(('Er', 1), ('O', 3), ('V', 1));1.0;True;False;0.8533808310202351;0.4571428571428572;3.017124279736601;3.0;3.0
+EuAlO3;perovskite;True;True;(('Al', 1), ('Eu', 1), ('O', 3));1.0;True;False;0.920883249917364;0.3821428571428572;2.117401035715936;3.0;3.0
+EuBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('Eu', 1), ('O', 3));-1.0;True;True;1.067011430293473;0.1928571428571429;4.932480324975631;3.0;3.0
+EuCO3;non-perovskite (B not octahedral);False;False;(('C', 1), ('Eu', 1), ('O', 3));;False;True;1.246502338630132;0.1142857142857143;12.66255700807573;2.0;4.0
+EuCrO3;perovskite;True;True;(('Cr', 1), ('Eu', 1), ('O', 3));1.0;True;False;0.8843221283325559;0.4392857142857143;2.390290532932892;3.0;3.0
+EuFeO3;perovskite;True;True;(('Eu', 1), ('Fe', 1), ('O', 3));1.0;True;False;0.8713491875746209;0.4607142857142857;2.610529394791799;3.0;3.0
+EuMnO3;perovskite;True;True;(('Eu', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.8713491875746209;0.4607142857142857;2.610529394791799;3.0;3.0
+EuNbO3;perovskite;True;True;(('Eu', 1), ('Nb', 1), ('O', 3));;False;False;0.8405231549953299;0.5142857142857143;3.506510390428085;3.0;3.0
+EuNiO3;perovskite;True;True;(('Eu', 1), ('Ni', 1), ('O', 3));1.0;True;False;0.8909545442950498;0.4285714285714286;2.3054735855046724;3.0;3.0
+EuRhO3;perovskite;True;True;(('Eu', 1), ('O', 3), ('Rh', 1));1.0;True;False;0.8629099702615496;0.475;2.7976886257682345;3.0;3.0
+EuScO3;perovskite;True;True;(('Eu', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.8307268478275522;0.5321428571428571;3.941421574458067;3.0;3.0
+EuTiO3;perovskite;True;True;(('Eu', 1), ('O', 3), ('Ti', 1));1.0;True;False;0.8608256466618839;0.4785714285714286;2.8498954704217407;3.0;3.0
+EuZrO3;perovskite;True;True;(('Eu', 1), ('O', 3), ('Zr', 1));;False;False;0.91723756993538;0.5142857142857143;3.9100001901223034;2.0;4.0
+FeBO3;non-perovskite (A under-coordinated);False;False;(('B', 1), ('Fe', 1), ('O', 3));-1.0;True;True;0.9230495706507028;0.1928571428571429;4.354565645640087;3.0;3.0
+FeBiO3;perovskite;True;True;(('Bi', 1), ('Fe', 1), ('O', 3));1.0;True;False;0.88863786193126;0.4607142857142857;2.3087136894700238;3.0;3.0
+FeCO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('C', 1), ('Fe', 1), ('O', 3));;False;True;1.0515947002261476;0.1142857142857143;11.324434572688672;2.0;4.0
+FeGeO3;non-perovskite (edge-sharing BO6);False;False;(('Fe', 1), ('Ge', 1), ('O', 3));;False;True;0.7587594175956404;0.4178571428571428;9.663975797212032;2.0;4.0
+FeSO3;non-perovskite (edge-sharing BO6);False;False;(('Fe', 1), ('O', 3), ('S', 1));-1.0;True;True;0.9268292273179604;0.2642857142857143;5.243365662208236;2.0;4.0
+FeSiO3;non-perovskite (B not octahedral);False;False;(('Fe', 1), ('O', 3), ('Si', 1));-1.0;True;True;0.911382073529328;0.2857142857142857;5.022811400828429;2.0;4.0
+GaBO3;non-perovskite (A under-coordinated);False;False;(('B', 1), ('Ga', 1), ('O', 3));;False;True;0.8553028131717522;0.1928571428571429;4.4720965870596965;3.0;3.0
+GaBiO3;non-perovskite (edge-sharing BO6);False;False;(('Bi', 1), ('Ga', 1), ('O', 3));;False;False;0.8996358552719935;0.4428571428571429;2.172927101909094;3.0;3.0
+GaFeO3;non-perovskite (edge-sharing BO6);False;False;(('Fe', 1), ('Ga', 1), ('O', 3));-1.0;True;False;0.7631152391023135;0.4428571428571429;9.698019771389973;3.0;3.0
+GdAlO3;perovskite;True;True;(('Al', 1), ('Gd', 1), ('O', 3));1.0;True;False;0.9161326617233458;0.3821428571428572;2.153635114727935;3.0;3.0
+GdBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('Gd', 1), ('O', 3));-1.0;True;True;1.061507006248308;0.1928571428571429;4.902487491425846;3.0;3.0
+GdCrO3;perovskite;True;True;(('Cr', 1), ('Gd', 1), ('O', 3));1.0;True;False;0.8797601490990942;0.4392857142857143;2.4634294155255807;3.0;3.0
+GdFeO3;perovskite;True;True;(('Fe', 1), ('Gd', 1), ('O', 3));1.0;True;False;0.8668541322418946;0.4607142857142857;2.7026264673697664;3.0;3.0
+GdGaO3;perovskite;True;True;(('Ga', 1), ('Gd', 1), ('O', 3));1.0;True;False;0.8775825249676605;0.4428571428571429;2.498273337862935;3.0;3.0
+GdMnO3;perovskite;True;True;(('Gd', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.8668541322418946;0.4607142857142857;2.7026264673697664;3.0;3.0
+GdNiO3;perovskite;True;True;(('Gd', 1), ('Ni', 1), ('O', 3));1.0;True;False;0.8863583502173371;0.4285714285714286;2.370373774375623;3.0;3.0
+GdScO3;perovskite;True;True;(('Gd', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.8264413521839973;0.5321428571428571;4.135356076143349;3.0;3.0
+GdTiO3;perovskite;True;True;(('Gd', 1), ('O', 3), ('Ti', 1));1.0;True;False;0.8563848794370408;0.4785714285714286;2.960909002314578;3.0;3.0
+GdVO3;perovskite;True;True;(('Gd', 1), ('O', 3), ('V', 1));1.0;True;False;0.8689787747228794;0.4571428571428572;2.657615956548545;3.0;3.0
+GePbO3;non-perovskite (B not octahedral);True;False;(('Ge', 1), ('O', 3), ('Pb', 1));1.0;True;True;1.0588282889270062;0.3785714285714286;4.081085322006645;2.0;4.0
+HIO3;non-perovskite (B not octahedral);False;False;(('H', 1), ('I', 1), ('O', 3));;False;True;1.3620499473675298;-0.1285714285714286;;5.0;1.0
+HNO3;non-perovskite (B not octahedral);False;False;(('H', 1), ('N', 1), ('O', 3));;False;True;0.8867814550946045;-0.1285714285714286;;5.0;1.0
+HfPbO3;perovskite;True;True;(('Hf', 1), ('O', 3), ('Pb', 1));1.0;True;False;0.9685017050374988;0.5071428571428571;3.634009839470865;2.0;4.0
+HgBrO3;non-perovskite (B not octahedral);False;False;(('Br', 1), ('Hg', 1), ('O', 3));;False;True;1.070997990218221;0.2214285714285714;6.369899099928562;1.0;5.0
+HgClO3;non-perovskite (B not octahedral);False;False;(('Cl', 1), ('Hg', 1), ('O', 3));;False;True;1.2048727389954983;0.0857142857142857;14.989129338634864;1.0;5.0
+HgNO3;non-perovskite (B not octahedral);False;False;(('Hg', 1), ('N', 1), ('O', 3));;False;True;1.196997753773306;0.0928571428571428;13.903434130412634;1.0;5.0
+HgSeO3;non-perovskite (B not octahedral);False;False;(('Hg', 1), ('O', 3), ('Se', 1));-1.0;True;True;0.9452901180072794;0.3571428571428571;4.332802559110199;2.0;4.0
+HgTeO3;non-perovskite (B not octahedral);False;False;(('Hg', 1), ('O', 3), ('Te', 1));-1.0;True;True;0.7578275207653293;0.6928571428571428;11.998703580355178;2.0;4.0
+HoAlO3;perovskite;True;True;(('Al', 1), ('Ho', 1), ('O', 3));1.0;True;False;0.920883249917364;0.3821428571428572;2.117401035715936;3.0;3.0
+HoCoO3;perovskite;True;True;(('Co', 1), ('Ho', 1), ('O', 3));1.0;True;False;0.8865219346219403;0.4357142857142857;2.3602070966130206;3.0;3.0
+HoCrO3;perovskite;True;True;(('Cr', 1), ('Ho', 1), ('O', 3));1.0;True;False;0.8843221283325559;0.4392857142857143;2.390290532932892;3.0;3.0
+HoFeO3;perovskite;True;True;(('Fe', 1), ('Ho', 1), ('O', 3));1.0;True;False;0.8713491875746209;0.4607142857142857;2.610529394791799;3.0;3.0
+HoGaO3;perovskite;True;True;(('Ga', 1), ('Ho', 1), ('O', 3));;False;False;0.8821332121733166;0.4428571428571429;2.4222178677704616;3.0;3.0
+HoMnO3;non-perovskite (B not octahedral);True;False;(('Ho', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.8713491875746209;0.4607142857142857;2.610529394791799;3.0;3.0
+HoNiO3;perovskite;True;True;(('Ho', 1), ('Ni', 1), ('O', 3));1.0;True;False;0.8909545442950498;0.4285714285714286;2.3054735855046724;3.0;3.0
+HoScO3;perovskite;True;True;(('Ho', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.8307268478275522;0.5321428571428571;3.941421574458067;3.0;3.0
+HoVO3;perovskite;True;True;(('Ho', 1), ('O', 3), ('V', 1));;False;False;0.873484847348088;0.4571428571428572;2.568936537680077;3.0;3.0
+InBO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('B', 1), ('In', 1), ('O', 3));-1.0;True;True;0.9823279834447846;0.1928571428571429;4.523378386539924;3.0;3.0
+InBiO3;non-perovskite (corner-sharing, A outside cavity);True;False;(('Bi', 1), ('In', 1), ('O', 3));1.0;True;False;0.8260292852951939;0.5714285714285715;4.29157874742315;3.0;3.0
+InFeO3;non-perovskite (edge-sharing BO6);False;False;(('Fe', 1), ('In', 1), ('O', 3));-1.0;True;False;0.8021944901480635;0.4607142857142857;5.220073392544533;3.0;3.0
+InGaO3;non-perovskite (edge-sharing BO6);False;False;(('Ga', 1), ('In', 1), ('O', 3));-1.0;True;False;0.8121226397786089;0.4428571428571429;4.537845634433396;3.0;3.0
+InRhO3;perovskite;True;True;(('In', 1), ('O', 3), ('Rh', 1));;False;False;0.7944250519868233;0.475;5.891914128961775;3.0;3.0
+KAsO3;non-perovskite (B not octahedral);False;False;(('As', 1), ('K', 1), ('O', 3));;False;True;1.1557014058102713;0.3285714285714286;4.84803080146891;1.0;5.0
+KBiO3;non-perovskite (edge-sharing BO6);False;False;(('Bi', 1), ('K', 1), ('O', 3));-1.0;True;False;0.9951873216699556;0.5428571428571429;3.6477246960052216;1.0;5.0
+KBrO3;non-perovskite (B not octahedral);False;False;(('Br', 1), ('K', 1), ('O', 3));-1.0;True;True;1.2570787221094175;0.2214285714285714;6.691822988054783;1.0;5.0
+KCO3;non-perovskite (B not octahedral);False;False;(('C', 1), ('K', 1), ('O', 3));;False;True;;;;;
+KClO3;non-perovskite (B not octahedral);False;False;(('Cl', 1), ('K', 1), ('O', 3));-1.0;True;True;1.414213562373095;0.0857142857142857;15.893005817829504;1.0;5.0
+KIO3;non-perovskite (B not octahedral);True;False;(('I', 1), ('K', 1), ('O', 3));1.0;True;True;0.9147253680030232;0.6785714285714286;3.6354953349917514;1.0;5.0
+KIrO3;non-perovskite (edge-sharing BO6);False;False;(('Ir', 1), ('K', 1), ('O', 3));;False;False;1.0911698552320328;0.4071428571428571;4.178653323234935;1.0;5.0
+KNO3;non-perovskite (B not octahedral);False;False;(('K', 1), ('N', 1), ('O', 3));-1.0;True;True;1.4049703364752315;0.0928571428571428;14.74587665752398;1.0;5.0
+KNbO3;perovskite;True;True;(('K', 1), ('Nb', 1), ('O', 3));1.0;True;False;1.0537277523564237;0.4571428571428572;3.910715044213359;1.0;5.0
+KPO3;non-perovskite (B not octahedral);False;False;(('K', 1), ('O', 3), ('P', 1));-1.0;True;True;1.2076430420264632;0.2714285714285714;5.635621119647768;1.0;5.0
+KSO3;non-perovskite (B not octahedral);False;False;(('K', 1), ('O', 3), ('S', 1));;False;True;;;;;
+KSbO3;non-perovskite (edge-sharing BO6);False;False;(('K', 1), ('O', 3), ('Sb', 1));-1.0;True;False;1.0748023074035522;0.4285714285714286;4.051656451743729;1.0;5.0
+KSiO3;non-perovskite (B not octahedral);False;False;(('K', 1), ('O', 3), ('Si', 1));;False;True;;;;;
+KTaO3;perovskite;True;True;(('K', 1), ('O', 3), ('Ta', 1));1.0;True;False;1.0537277523564237;0.4571428571428572;3.910715044213359;1.0;5.0
+KTiO3;non-perovskite (face-sharing BO6);False;False;(('K', 1), ('O', 3), ('Ti', 1));;False;False;;;;;
+KUO3;perovskite;True;True;(('K', 1), ('O', 3), ('U', 1));1.0;True;False;0.9951873216699556;0.5428571428571429;3.6477246960052216;1.0;5.0
+KVO3;non-perovskite (B not octahedral);False;False;(('K', 1), ('O', 3), ('V', 1));-1.0;True;False;1.1080436158799507;0.3857142857142858;4.326488717214296;1.0;5.0
+LaAlO3;perovskite;True;True;(('Al', 1), ('La', 1), ('O', 3));1.0;True;False;1.0085864165761609;0.3821428571428572;1.7908706920491912;3.0;3.0
+LaAsO3;non-perovskite (B not octahedral);False;False;(('As', 1), ('La', 1), ('O', 3));;False;True;0.9856639980176116;0.4142857142857142;1.6681755679678982;3.0;3.0
+LaAuO3;non-perovskite (B not octahedral);False;False;(('Au', 1), ('La', 1), ('O', 3));;False;False;0.8673843182554981;0.6071428571428572;2.8597459206547384;3.0;3.0
+LaBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('La', 1), ('O', 3));-1.0;True;True;1.168631566511899;0.1928571428571429;5.531389227133258;3.0;3.0
+LaCoO3;perovskite;True;True;(('Co', 1), ('La', 1), ('O', 3));1.0;True;False;0.970952595062125;0.4357142857142857;1.637165915680015;3.0;3.0
+LaCrO3;perovskite;True;True;(('Cr', 1), ('La', 1), ('O', 3));1.0;True;False;0.9685432834118468;0.4392857142857143;1.6357956085444192;3.0;3.0
+LaCuO3;perovskite;True;True;(('Cu', 1), ('La', 1), ('O', 3));1.0;True;False;1.0059869670489026;0.3857142857142858;1.7725147414073683;3.0;3.0
+LaErO3;perovskite;True;True;(('Er', 1), ('La', 1), ('O', 3));1.0;True;False;0.852233500469376;0.6357142857142858;3.3845183244450983;3.0;3.0
+LaFeO3;perovskite;True;True;(('Fe', 1), ('La', 1), ('O', 3));1.0;True;False;0.9543348244864894;0.4607142857142857;1.6499917729925675;3.0;3.0
+LaGaO3;perovskite;True;True;(('Ga', 1), ('La', 1), ('O', 3));1.0;True;False;0.9661458990469658;0.4428571428571429;1.63549725722471;3.0;3.0
+LaHoO3;perovskite;True;True;(('Ho', 1), ('La', 1), ('O', 3));1.0;True;False;0.8481593724793007;0.6435714285714286;3.551934544512891;3.0;3.0
+LaIO3;non-perovskite (B not octahedral);False;False;(('I', 1), ('La', 1), ('O', 3));;False;True;;;;;
+LaInO3;perovskite;True;True;(('In', 1), ('La', 1), ('O', 3));1.0;True;False;0.8870975982158503;0.5714285714285715;2.3612485337733453;3.0;3.0
+LaLuO3;perovskite;True;True;(('La', 1), ('Lu', 1), ('O', 3));1.0;True;False;0.8631644033944585;0.615;2.991810574149137;3.0;3.0
+LaMnO3;perovskite;True;True;(('La', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.9543348244864894;0.4607142857142857;1.6499917729925675;3.0;3.0
+LaNiO3;perovskite;True;True;(('La', 1), ('Ni', 1), ('O', 3));1.0;True;False;0.9758073580374356;0.4285714285714286;1.643139289098067;3.0;3.0
+LaPdO3;perovskite;True;True;(('La', 1), ('O', 3), ('Pd', 1));;False;False;0.903525331516144;0.5428571428571429;2.0674400090689646;3.0;3.0
+LaRhO3;perovskite;True;True;(('La', 1), ('O', 3), ('Rh', 1));1.0;True;False;0.9450918721912208;0.475;1.6807235681614277;3.0;3.0
+LaRuO3;perovskite;True;True;(('La', 1), ('O', 3), ('Ru', 1));1.0;True;False;0.9382763058052264;0.4857142857142857;1.7149937747455457;3.0;3.0
+LaScO3;perovskite;True;True;(('La', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.9098436904777952;0.5321428571428571;1.978567649956684;3.0;3.0
+LaTiO3;perovskite;True;True;(('La', 1), ('O', 3), ('Ti', 1));1.0;True;False;0.9428090415820632;0.4785714285714286;1.6910731507096362;3.0;3.0
+LaTlO3;non-perovskite (edge-sharing BO6);False;False;(('La', 1), ('O', 3), ('Tl', 1));-1.0;True;False;0.8540983440152607;0.6321428571428572;3.311920789179582;3.0;3.0
+LaTmO3;perovskite;True;True;(('La', 1), ('O', 3), ('Tm', 1));1.0;True;False;0.8559713666995048;0.6285714285714287;3.241428659202975;3.0;3.0
+LaVO3;perovskite;True;True;(('La', 1), ('O', 3), ('V', 1));1.0;True;False;0.956673880428858;0.4571428571428572;1.644966808789933;3.0;3.0
+LaYO3;perovskite;True;True;(('La', 1), ('O', 3), ('Y', 1));1.0;True;False;0.848528137423857;0.6428571428571429;3.5362649453386137;3.0;3.0
+LiAsO3;non-perovskite (edge-sharing BO6);False;False;(('As', 1), ('Li', 1), ('O', 3));-1.0;True;True;0.8819826518025754;0.3285714285714286;4.928868342647491;1.0;5.0
+LiBiO3;non-perovskite (edge-sharing BO6);False;False;(('Bi', 1), ('Li', 1), ('O', 3));-1.0;True;False;0.7594850612744398;0.5428571428571429;7.178107020036972;1.0;5.0
+LiBrO3;non-perovskite (B not octahedral);False;False;(('Br', 1), ('Li', 1), ('O', 3));;False;True;0.959349551083503;0.2214285714285714;6.24433108305071;1.0;5.0
+LiIO3;non-perovskite (B not octahedral);False;False;(('I', 1), ('Li', 1), ('O', 3));-1.0;True;True;0.7693059887909196;0.5428571428571429;4.850980998936329;5.0;1.0
+LiNO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Li', 1), ('N', 1), ('O', 3));-1.0;True;True;1.0722142041521503;0.0928571428571428;13.385737943701072;1.0;5.0
+LiNbO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Li', 1), ('Nb', 1), ('O', 3));-1.0;True;False;0.8041606531141127;0.4571428571428572;5.148586357183775;1.0;5.0
+LiOsO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Li', 1), ('O', 3), ('Os', 1));;False;False;0.8306266999254635;0.4107142857142857;4.839011641070762;1.0;5.0
+LiPO3;non-perovskite (B not octahedral);False;False;(('Li', 1), ('O', 3), ('P', 1));-1.0;True;True;0.9216223215465114;0.2714285714285714;5.42233087539812;1.0;5.0
+LiReO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Li', 1), ('O', 3), ('Re', 1));-1.0;True;False;0.8285291577539344;0.4142857142857142;4.852011679117004;1.0;5.0
+LiSbO3;non-perovskite (edge-sharing BO6);False;False;(('Li', 1), ('O', 3), ('Sb', 1));-1.0;True;False;0.820243866176395;0.4285714285714286;4.920547752405589;1.0;5.0
+LiTaO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Li', 1), ('O', 3), ('Ta', 1));-1.0;True;False;0.8041606531141127;0.4571428571428572;5.148586357183775;1.0;5.0
+LiUO3;non-perovskite (A under-coordinated);False;False;(('Li', 1), ('O', 3), ('U', 1));;False;False;0.7594850612744398;0.5428571428571429;7.178107020036972;1.0;5.0
+LiVO3;non-perovskite (B not octahedral);False;False;(('Li', 1), ('O', 3), ('V', 1));-1.0;True;False;0.8456122331715412;0.3857142857142858;4.790207489285773;1.0;5.0
+LuBO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('B', 1), ('Lu', 1), ('O', 3));-1.0;True;True;1.02975071368005;0.1928571428571429;4.7370893592148535;3.0;3.0
+LuCoO3;perovskite;True;True;(('Co', 1), ('Lu', 1), ('O', 3));;False;False;0.8555640257938725;0.4357142857142857;2.9479123354393355;3.0;3.0
+LuCrO3;perovskite;True;True;(('Cr', 1), ('Lu', 1), ('O', 3));1.0;True;False;0.8534410381368157;0.4392857142857143;3.0017671609012444;3.0;3.0
+LuFeO3;non-perovskite (B not octahedral);True;False;(('Fe', 1), ('Lu', 1), ('O', 3));1.0;True;False;0.8409211207069357;0.4607142857142857;3.383229732784242;3.0;3.0
+LuMnO3;non-perovskite (B not octahedral);True;False;(('Lu', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.8409211207069357;0.4607142857142857;3.383229732784242;3.0;3.0
+LuNiO3;perovskite;True;True;(('Lu', 1), ('Ni', 1), ('O', 3));;False;False;0.8598418459228417;0.4285714285714286;2.8479357350568675;3.0;3.0
+LuRhO3;perovskite;True;True;(('Lu', 1), ('O', 3), ('Rh', 1));;False;False;0.8327766062206701;0.475;3.6990963696557166;3.0;3.0
+LuVO3;perovskite;True;True;(('Lu', 1), ('O', 3), ('V', 1));;False;False;0.8429822018851388;0.4571428571428572;3.3123306393910994;3.0;3.0
+MgBO3;non-perovskite (edge-sharing BO6);False;False;(('B', 1), ('Mg', 1), ('O', 3));;False;True;;;;;
+MgCO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('C', 1), ('Mg', 1), ('O', 3));-1.0;True;True;1.0379964928956371;0.1142857142857143;11.232920224421996;2.0;4.0
+MgGeO3;non-perovskite (edge-sharing BO6);False;False;(('Ge', 1), ('Mg', 1), ('O', 3));-1.0;True;True;0.8390023465892196;0.3785714285714286;5.120773417585061;2.0;4.0
+MgSeO3;non-perovskite (A under-coordinated);False;False;(('Mg', 1), ('O', 3), ('Se', 1));-1.0;True;True;0.852249752061681;0.3571428571428571;4.973981077072553;2.0;4.0
+MgSiO3;non-perovskite (edge-sharing BO6);True;False;(('Mg', 1), ('O', 3), ('Si', 1));1.0;True;True;0.8995969605095522;0.2857142857142857;5.0641907098236185;2.0;4.0
+MgTiO3;non-perovskite (edge-sharing BO6);False;False;(('Mg', 1), ('O', 3), ('Ti', 1));-1.0;True;False;0.8076182189113187;0.4321428571428571;5.9363347695167725;2.0;4.0
+MgVO3;non-perovskite (B not octahedral);False;False;(('Mg', 1), ('O', 3), ('V', 1));-1.0;True;False;0.8178154186450474;0.4142857142857142;5.581035311682232;2.0;4.0
+MnBiO3;perovskite;True;True;(('Bi', 1), ('Mn', 1), ('O', 3));1.0;True;False;0.88863786193126;0.4607142857142857;2.3087136894700238;3.0;3.0
+MnCO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('C', 1), ('Mn', 1), ('O', 3));-1.0;True;True;1.069725643333495;0.1142857142857143;11.447327518614967;2.0;4.0
+MnClO3;non-perovskite (B not octahedral);False;False;(('Cl', 1), ('Mn', 1), ('O', 3));;False;True;;;;;
+MnCoO3;non-perovskite (edge-sharing BO6);False;False;(('Co', 1), ('Mn', 1), ('O', 3));-1.0;True;False;0.8426661122948492;0.3785714285714286;5.0553196822884345;2.0;4.0
+MnGeO3;non-perovskite (edge-sharing BO6);False;False;(('Ge', 1), ('Mn', 1), ('O', 3));-1.0;True;True;0.780382095299143;0.3785714285714286;7.245495608993011;2.0;4.0
+MnInO3;non-perovskite (B not octahedral);False;False;(('In', 1), ('Mn', 1), ('O', 3));-1.0;True;False;0.8021944901480635;0.4607142857142857;5.220073392544533;3.0;3.0
+MnNiO3;non-perovskite (edge-sharing BO6);False;False;(('Mn', 1), ('Ni', 1), ('O', 3));-1.0;True;False;0.7657270324766239;0.3785714285714286;8.511219727810895;2.0;4.0
+MnPbO3;non-perovskite (edge-sharing BO6);False;False;(('Mn', 1), ('O', 3), ('Pb', 1));;False;False;1.0588282889270062;0.3785714285714286;4.081085322006645;2.0;4.0
+MnSO3;non-perovskite (edge-sharing BO6);False;False;(('Mn', 1), ('O', 3), ('S', 1));-1.0;True;True;0.9428090415820632;0.2642857142857143;5.226435757866106;2.0;4.0
+MnSeO3;non-perovskite (edge-sharing BO6);False;False;(('Mn', 1), ('O', 3), ('Se', 1));-1.0;True;True;0.8783010545264485;0.3571428571428571;4.686634583761662;2.0;4.0
+MnSiO3;non-perovskite (B not octahedral);False;False;(('Mn', 1), ('O', 3), ('Si', 1));-1.0;True;True;0.9270955575556956;0.2857142857142857;4.982777162903586;2.0;4.0
+MnSnO3;non-perovskite (edge-sharing BO6);False;False;(('Mn', 1), ('O', 3), ('Sn', 1));-1.0;True;False;0.9342602549355936;0.3785714285714286;4.243623239230578;2.0;4.0
+MnVO3;perovskite;True;True;(('Mn', 1), ('O', 3), ('V', 1));;False;False;0.7088398860423968;0.4571428571428572;381.69725801737553;3.0;3.0
+NaAsO3;non-perovskite (edge-sharing BO6);False;False;(('As', 1), ('Na', 1), ('O', 3));-1.0;True;True;1.0606601717798214;0.3285714285714286;4.776025034734419;1.0;5.0
+NaBiO3;non-perovskite (edge-sharing BO6);False;False;(('Bi', 1), ('Na', 1), ('O', 3));-1.0;True;False;0.9133462590326238;0.5428571428571429;3.871464875710136;1.0;5.0
+NaBrO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Br', 1), ('Na', 1), ('O', 3));-1.0;True;True;1.1537005377254197;0.2214285714285714;6.504406690527938;1.0;5.0
+NaCO3;non-perovskite (edge-sharing BO6);False;False;(('C', 1), ('Na', 1), ('O', 3));;False;True;;;;;
+NaClO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Cl', 1), ('Na', 1), ('O', 3));-1.0;True;True;1.2979131049410968;0.0857142857142857;15.395393006253736;1.0;5.0
+NaIO3;non-perovskite (A under-coordinated);False;False;(('I', 1), ('Na', 1), ('O', 3));1.0;True;True;0.8395012423448799;0.6785714285714286;4.318059586788747;1.0;5.0
+NaIrO3;non-perovskite (edge-sharing BO6);False;False;(('Ir', 1), ('Na', 1), ('O', 3));;False;False;1.0014354921372932;0.4071428571428571;4.191763513900469;1.0;5.0
+NaNO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('N', 1), ('Na', 1), ('O', 3));-1.0;True;True;1.2894300127519396;0.0928571428571428;14.281658199652409;1.0;5.0
+NaNbO3;perovskite;True;True;(('Na', 1), ('Nb', 1), ('O', 3));1.0;True;False;0.9670725095639544;0.4571428571428572;3.987784454930341;1.0;5.0
+NaOsO3;perovskite;True;True;(('Na', 1), ('O', 3), ('Os', 1));;False;False;0.9989002124103634;0.4107142857142857;4.1734497321459605;1.0;5.0
+NaPO3;non-perovskite (edge-sharing BO6);False;False;(('Na', 1), ('O', 3), ('P', 1));-1.0;True;True;1.1083302918598137;0.2714285714285714;5.504728085240877;1.0;5.0
+NaSbO3;non-perovskite (edge-sharing BO6);True;False;(('Na', 1), ('O', 3), ('Sb', 1));1.0;True;False;0.9864139597552336;0.4285714285714286;4.090845148640083;1.0;5.0
+NaSeO3;non-perovskite (B not octahedral);False;False;(('Na', 1), ('O', 3), ('Se', 1));;False;True;;;;;
+NaTaO3;perovskite;True;True;(('Na', 1), ('O', 3), ('Ta', 1));1.0;True;False;0.9670725095639544;0.4571428571428572;3.987784454930341;1.0;5.0
+NaUO3;perovskite;True;True;(('Na', 1), ('O', 3), ('U', 1));1.0;True;False;0.9133462590326238;0.5428571428571429;3.871464875710136;1.0;5.0
+NaVO3;non-perovskite (edge-sharing BO6);False;False;(('Na', 1), ('O', 3), ('V', 1));-1.0;True;False;1.0169216079950862;0.3857142857142858;4.3150691739359655;1.0;5.0
+NaWO3;perovskite;True;True;(('Na', 1), ('O', 3), ('W', 1));1.0;True;False;0.976647484906172;0.4428571428571429;4.035006992423109;1.0;5.0
+NaZnO3;non-perovskite (B not octahedral);False;False;(('Na', 1), ('O', 3), ('Zn', 1));;False;False;;;;;
+NbAgO3;perovskite;True;True;(('Ag', 1), ('Nb', 1), ('O', 3));1.0;True;False;0.928944202735268;0.4571428571428572;4.072890081777927;1.0;5.0
+NbCuO3;non-perovskite (edge-sharing BO6);False;False;(('Cu', 1), ('Nb', 1), ('O', 3));-1.0;True;False;0.7521675074386313;0.4571428571428572;7.693609590642878;1.0;5.0
+NdAlO3;perovskite;True;True;(('Al', 1), ('Nd', 1), ('O', 3));1.0;True;False;0.975697729079112;0.3821428571428572;1.8544749175747448;3.0;3.0
+NdBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('Nd', 1), ('O', 3));;False;True;1.1305240154299891;0.1928571428571429;5.298828161236899;3.0;3.0
+NdCoO3;perovskite;True;True;(('Co', 1), ('Nd', 1), ('O', 3));1.0;True;False;0.9392910973970556;0.4357142857142857;1.8124541480660417;3.0;3.0
+NdCrO3;perovskite;True;True;(('Cr', 1), ('Nd', 1), ('O', 3));1.0;True;False;0.9369603502571128;0.4392857142857143;1.8196520354776924;3.0;3.0
+NdFeO3;perovskite;True;True;(('Fe', 1), ('Nd', 1), ('O', 3));1.0;True;False;0.9232152106445388;0.4607142857142857;1.8890461552681048;3.0;3.0
+NdGaO3;perovskite;True;True;(('Ga', 1), ('Nd', 1), ('O', 3));1.0;True;False;0.9346411414693472;0.4428571428571429;1.828091904923257;3.0;3.0
+NdMnO3;perovskite;True;True;(('Mn', 1), ('Nd', 1), ('O', 3));1.0;True;False;0.9232152106445388;0.4607142857142857;1.8890461552681048;3.0;3.0
+NdNiO3;perovskite;True;True;(('Nd', 1), ('Ni', 1), ('O', 3));1.0;True;False;0.9439875528840408;0.4285714285714286;1.801778099740436;3.0;3.0
+NdRhO3;perovskite;True;True;(('Nd', 1), ('O', 3), ('Rh', 1));1.0;True;False;0.9142736589675942;0.475;1.960680330112428;3.0;3.0
+NdScO3;perovskite;True;True;(('Nd', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.8801748744839542;0.5321428571428571;2.467138740902522;3.0;3.0
+NdTiO3;perovskite;True;True;(('Nd', 1), ('O', 3), ('Ti', 1));1.0;True;False;0.912065268486996;0.4785714285714286;1.981837406267415;3.0;3.0
+NdVO3;perovskite;True;True;(('Nd', 1), ('O', 3), ('V', 1));1.0;True;False;0.9254779930235694;0.4571428571428572;1.87433821060462;3.0;3.0
+NiBiO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('Bi', 1), ('Ni', 1), ('O', 3));;False;False;0.9086322138247136;0.4285714285714286;2.093055861616228;3.0;3.0
+NiCO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('C', 1), ('Ni', 1), ('O', 3));;False;True;0.9473417773589002;0.1142857142857143;10.651399287860585;2.0;4.0
+NiSeO3;non-perovskite (A under-coordinated);False;False;(('Ni', 1), ('O', 3), ('Se', 1));-1.0;True;True;0.7778174593052022;0.3571428571428571;7.36920645459963;2.0;4.0
+OsPbO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('O', 3), ('Os', 1), ('Pb', 1));;False;False;1.0066692599158238;0.45;3.7172211772896064;2.0;4.0
+PPbO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('P', 1), ('Pb', 1));;False;True;;;;;
+PbCO3;non-perovskite (B not octahedral);False;False;(('C', 1), ('O', 3), ('Pb', 1));-1.0;True;True;1.3099606395058476;0.1142857142857143;13.096936473117385;2.0;4.0
+PbSO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Pb', 1), ('S', 1));-1.0;True;True;1.154541580581425;0.2642857142857143;5.56547071334259;2.0;4.0
+PbSeO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Pb', 1), ('Se', 1));-1.0;True;True;1.075546630331117;0.3571428571428571;4.258258832993463;2.0;4.0
+PdSeO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Pd', 1), ('Se', 1));;False;True;0.841084908148209;0.3571428571428571;5.14306826781569;2.0;4.0
+PrAlO3;perovskite;True;True;(('Al', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.9424436117209848;0.3821428571428572;1.9838057025002769;3.0;3.0
+PrBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('O', 3), ('Pr', 1));;False;True;1.091993047113836;0.1928571428571429;5.072566813112762;3.0;3.0
+PrCoO3;perovskite;True;True;(('Co', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.9072778053134856;0.4357142857142857;2.094303098046675;3.0;3.0
+PrCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.9050264956228814;0.4392857142857143;2.113581273463642;3.0;3.0
+PrFeO3;perovskite;True;True;(('Fe', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.8917498233154552;0.4607142857142857;2.2620202152489544;3.0;3.0
+PrGaO3;perovskite;True;True;(('Ga', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.9027863310297553;0.4428571428571429;2.1343943850943194;3.0;3.0
+PrInO3;perovskite;True;True;(('In', 1), ('O', 3), ('Pr', 1));;False;False;0.8289219948545934;0.5714285714285715;4.15055189188762;3.0;3.0
+PrLuO3;perovskite;True;True;(('Lu', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.8065583320124307;0.615;5.695236404910401;3.0;3.0
+PrMnO3;perovskite;True;True;(('Mn', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.8917498233154552;0.4607142857142857;2.2620202152489544;3.0;3.0
+PrNiO3;perovskite;True;True;(('Ni', 1), ('O', 3), ('Pr', 1));1.0;True;False;0.9118141943400528;0.4285714285714286;2.06030250408478;3.0;3.0
+PrRhO3;perovskite;True;True;(('O', 3), ('Pr', 1), ('Rh', 1));1.0;True;False;0.8831130211525937;0.475;2.3935502761147287;3.0;3.0
+PrRuO3;perovskite;True;True;(('O', 3), ('Pr', 1), ('Ru', 1));1.0;True;False;0.8767444176346663;0.4857142857142857;2.5103872680208585;3.0;3.0
+PrScO3;perovskite;True;True;(('O', 3), ('Pr', 1), ('Sc', 1));1.0;True;False;0.8501764049790702;0.5321428571428571;3.221811786819225;3.0;3.0
+PrVO3;perovskite;True;True;(('O', 3), ('Pr', 1), ('V', 1));1.0;True;False;0.8939354846471106;0.4571428571428572;2.2332955835926924;3.0;3.0
+RbBrO3;non-perovskite (B not octahedral);False;False;(('Br', 1), ('O', 3), ('Rb', 1));-1.0;True;True;1.2901597411122971;0.2214285714285714;6.754158532556051;1.0;5.0
+RbCO3;non-perovskite (B not octahedral);False;False;(('C', 1), ('O', 3), ('Rb', 1));;False;True;;;;;
+RbClO3;non-perovskite (B not octahedral);False;False;(('Cl', 1), ('O', 3), ('Rb', 1));-1.0;True;True;1.451429708751334;0.0857142857142857;16.04990067226415;1.0;5.0
+RbIO3;non-perovskite (B not octahedral);False;False;(('I', 1), ('O', 3), ('Rb', 1));1.0;True;True;0.9387970882136292;0.6785714285714286;3.5236718808546703;1.0;5.0
+RbNO3;non-perovskite (B not octahedral);False;False;(('N', 1), ('O', 3), ('Rb', 1));-1.0;True;True;1.4419432400666852;0.0928571428571428;14.892382009310346;1.0;5.0
+RbNbO3;non-perovskite (edge-sharing BO6);False;False;(('Nb', 1), ('O', 3), ('Rb', 1));1.0;True;False;1.0814574300500135;0.4571428571428572;3.90595946526171;1.0;5.0
+RbPO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('P', 1), ('Rb', 1));-1.0;True;True;1.239423122079791;0.2714285714285714;5.681952666186842;1.0;5.0
+RbSO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Rb', 1), ('S', 1));;False;True;;;;;
+RbSeO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Rb', 1), ('Se', 1));;False;True;;;;;
+RbTaO3;non-perovskite (edge-sharing BO6);False;False;(('O', 3), ('Rb', 1), ('Ta', 1));1.0;True;False;1.0814574300500135;0.4571428571428572;3.90595946526171;1.0;5.0
+RbUO3;perovskite;True;True;(('O', 3), ('Rb', 1), ('U', 1));1.0;True;False;1.0213764617139018;0.5428571428571429;3.612998482147006;1.0;5.0
+RbVO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Rb', 1), ('V', 1));-1.0;True;False;1.1372026584031072;0.3857142857142858;4.341972401370057;1.0;5.0
+ReClO3;non-perovskite (B not octahedral);False;False;(('Cl', 1), ('O', 3), ('Re', 1));;False;True;;;;;
+ReO3F;non-perovskite (B not octahedral);False;False;(('F', 1), ('O', 3), ('Re', 1));;False;False;;;;;
+SbAsO3;non-perovskite (B not octahedral);False;False;(('As', 1), ('O', 3), ('Sb', 1));-1.0;True;True;0.7713892158398701;0.4142857142857142;7.957541252119659;3.0;3.0
+ScAlO3;perovskite;True;True;(('Al', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.8295257846477843;0.3821428571428572;3.6502225562843407;3.0;3.0
+ScBO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('B', 1), ('O', 3), ('Sc', 1));-1.0;True;True;0.9611571217326124;0.1928571428571429;4.446790318010479;3.0;3.0
+ScBiO3;perovskite;True;True;(('Bi', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.8472095233796861;0.5321428571428571;3.317104097083316;3.0;3.0
+ScCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Sc', 1));1.0;True;False;0.7965917584582943;0.4392857142857143;5.511239529266709;3.0;3.0
+ScMnO3;non-perovskite (B not octahedral);False;False;(('Mn', 1), ('O', 3), ('Sc', 1));;False;False;0.7849058157914244;0.4607142857142857;6.693041239666604;3.0;3.0
+ScRhO3;perovskite;True;True;(('O', 3), ('Rh', 1), ('Sc', 1));;False;False;0.7773038224181419;0.475;7.711596966956073;3.0;3.0
+SiPbO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Pb', 1), ('Si', 1));-1.0;True;True;1.135299220905068;0.2857142857142857;5.165111237215218;2.0;4.0
+SmAlO3;perovskite;True;True;(('Al', 1), ('O', 3), ('Sm', 1));1.0;True;False;0.9647348332467622;0.3821428571428572;1.888618478457019;3.0;3.0
+SmBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('O', 3), ('Sm', 1));-1.0;True;True;1.1178214984026855;0.1928571428571429;5.223084547088271;3.0;3.0
+SmCoO3;perovskite;True;True;(('Co', 1), ('O', 3), ('Sm', 1));1.0;True;False;0.9287372648420326;0.4357142857142857;1.891493654639122;3.0;3.0
+SmCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Sm', 1));1.0;True;False;0.9264327058722012;0.4392857142857143;1.9022036862944691;3.0;3.0
+SmFeO3;perovskite;True;True;(('Fe', 1), ('O', 3), ('Sm', 1));1.0;True;False;0.9128420060305552;0.4607142857142857;1.9944374675306185;3.0;3.0
+SmMnO3;perovskite;True;True;(('Mn', 1), ('O', 3), ('Sm', 1));1.0;True;False;0.9128420060305552;0.4607142857142857;1.9944374675306185;3.0;3.0
+SmNiO3;perovskite;True;True;(('Ni', 1), ('O', 3), ('Sm', 1));1.0;True;False;0.9333809511662424;0.4285714285714286;1.8740193310265267;3.0;3.0
+SmRhO3;perovskite;True;True;(('O', 3), ('Rh', 1), ('Sm', 1));1.0;True;False;0.9040009212263852;0.475;2.083224884313637;3.0;3.0
+SmScO3;perovskite;True;True;(('O', 3), ('Sc', 1), ('Sm', 1));1.0;True;False;0.8702852691526737;0.5321428571428571;2.6799025580240947;3.0;3.0
+SmTiO3;perovskite;True;True;(('O', 3), ('Sm', 1), ('Ti', 1));1.0;True;False;0.9018173441219736;0.4785714285714286;2.1089455208279;3.0;3.0
+SmVO3;perovskite;True;True;(('O', 3), ('Sm', 1), ('V', 1));1.0;True;False;0.915079363888473;0.4571428571428572;1.9756967619086316;3.0;3.0
+SnHgO3;non-perovskite (A under-coordinated);False;False;(('Hg', 1), ('O', 3), ('Sn', 1));;False;False;0.8593546527338903;0.4928571428571428;4.61014632232884;2.0;4.0
+SnPO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('P', 1), ('Sn', 1));;False;True;;;;;
+SnPbO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('O', 3), ('Pb', 1), ('Sn', 1));;False;False;0.9777696639373792;0.4928571428571428;3.639036549225079;2.0;4.0
+SrBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('O', 3), ('Sr', 1));;False;True;;;;;
+SrBiO3;perovskite;True;True;(('Bi', 1), ('O', 3), ('Sr', 1));;False;False;;;;;
+SrCO3;non-perovskite (B not octahedral);False;False;(('C', 1), ('O', 3), ('Sr', 1));-1.0;True;True;1.2872969606216635;0.1142857142857143;12.942153039641536;2.0;4.0
+SrCeO3;perovskite;True;True;(('Ce', 1), ('O', 3), ('Sr', 1));1.0;True;False;0.8846622284448435;0.6214285714285714;4.178575819331017;2.0;4.0
+SrCoO3;perovskite;True;True;(('Co', 1), ('O', 3), ('Sr', 1));1.0;True;False;1.0405094603988574;0.3785714285714286;4.078073713759599;2.0;4.0
+SrCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Sr', 1));;False;False;1.0298375684973309;0.3928571428571429;3.9859447522939417;2.0;4.0
+SrFeO3;perovskite;True;True;(('Fe', 1), ('O', 3), ('Sr', 1));;False;False;1.0116792234608538;0.4178571428571428;3.858471515012799;2.0;4.0
+SrGeO3;non-perovskite (B not octahedral);True;False;(('Ge', 1), ('O', 3), ('Sr', 1));1.0;True;True;1.0405094603988574;0.3785714285714286;4.078073713759599;2.0;4.0
+SrHfO3;perovskite;True;True;(('Hf', 1), ('O', 3), ('Sr', 1));1.0;True;False;0.9517456201752582;0.5071428571428571;3.708143114437532;2.0;4.0
+SrIrO3;non-perovskite (face-sharing BO6);True;False;(('Ir', 1), ('O', 3), ('Sr', 1));1.0;True;False;0.9916954363307628;0.4464285714285714;3.760898559258417;2.0;4.0
+SrMnO3;non-perovskite (face-sharing BO6);True;False;(('Mn', 1), ('O', 3), ('Sr', 1));1.0;True;False;1.0405094603988574;0.3785714285714286;4.078073713759599;2.0;4.0
+SrMoO3;perovskite;True;True;(('Mo', 1), ('O', 3), ('Sr', 1));1.0;True;False;0.9796015895462414;0.4642857142857143;3.724155730652064;2.0;4.0
+SrNbO3;perovskite;True;True;(('Nb', 1), ('O', 3), ('Sr', 1));1.0;True;False;0.9654727204662474;0.4857142857142857;3.703582344031177;2.0;4.0
+SrOsO3;perovskite;True;True;(('O', 3), ('Os', 1), ('Sr', 1));;False;False;0.9892528367338892;0.45;3.752096492240936;2.0;4.0
+SrPbO3;perovskite;True;True;(('O', 3), ('Pb', 1), ('Sr', 1));1.0;True;False;0.9233026476182964;0.5535714285714286;3.8047032913279937;2.0;4.0
+SrPrO3;perovskite;True;True;(('O', 3), ('Pr', 1), ('Sr', 1));;False;False;0.8925258926976865;0.6071428571428572;4.074371522837181;2.0;4.0
+SrRuO3;perovskite;True;True;(('O', 3), ('Ru', 1), ('Sr', 1));1.0;True;False;0.9941501280048488;0.4428571428571429;3.770438458591311;2.0;4.0
+SrSeO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Se', 1), ('Sr', 1));;False;True;1.0569385571419974;0.3571428571428571;4.245313718481601;2.0;4.0
+SrSiO3;non-perovskite (B not octahedral);True;False;(('O', 3), ('Si', 1), ('Sr', 1));-1.0;True;True;1.1156573658721085;0.2857142857142857;5.120899178757185;2.0;4.0
+SrSnO3;perovskite;True;True;(('O', 3), ('Sn', 1), ('Sr', 1));1.0;True;False;0.9608532337654522;0.4928571428571428;3.702323135722228;2.0;4.0
+SrTbO3;perovskite;True;True;(('O', 3), ('Sr', 1), ('Tb', 1));;False;False;0.92971447156009;0.5428571428571429;3.771682038531175;2.0;4.0
+SrTcO3;perovskite;True;True;(('O', 3), ('Sr', 1), ('Tc', 1));;False;False;0.9819967034571124;0.4607142857142857;3.7300607541144406;2.0;4.0
+SrTeO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Sr', 1), ('Te', 1));-1.0;True;True;0.8473347082572974;0.6928571428571428;4.957990750401268;2.0;4.0
+SrTiO3;perovskite;True;True;(('O', 3), ('Sr', 1), ('Ti', 1));1.0;True;False;1.001587660134561;0.4321428571428571;3.803550996949633;2.0;4.0
+SrVO3;perovskite;True;True;(('O', 3), ('Sr', 1), ('V', 1));1.0;True;False;1.0142339689746438;0.4142857142857142;3.8741839929265054;2.0;4.0
+SrZrO3;perovskite;True;True;(('O', 3), ('Sr', 1), ('Zr', 1));1.0;True;False;0.947256254042356;0.5142857142857143;3.7152246080002977;2.0;4.0
+TaAgO3;perovskite;True;True;(('Ag', 1), ('O', 3), ('Ta', 1));1.0;True;False;0.928944202735268;0.4571428571428572;4.072890081777927;1.0;5.0
+TaSnO3;perovskite;True;True;(('O', 3), ('Sn', 1), ('Ta', 1));;False;False;0.8668857173200462;0.4857142857142857;4.49619642627796;2.0;4.0
+TbAlO3;perovskite;True;True;(('Al', 1), ('O', 3), ('Tb', 1));1.0;True;False;0.911747503390406;0.3821428571428572;2.189594258725858;3.0;3.0
+TbCoO3;perovskite;True;True;(('Co', 1), ('O', 3), ('Tb', 1));1.0;True;False;0.8777270741594211;0.4357142857142857;2.499833006643316;3.0;3.0
+TbCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Tb', 1));1.0;True;False;0.8755490913451297;0.4392857142857143;2.53553234307991;3.0;3.0
+TbFeO3;perovskite;True;True;(('Fe', 1), ('O', 3), ('Tb', 1));1.0;True;False;0.8627048503963012;0.4607142857142857;2.793468507465088;3.0;3.0
+TbMnO3;perovskite;True;True;(('Mn', 1), ('O', 3), ('Tb', 1));1.0;True;False;0.8627048503963012;0.4607142857142857;2.793468507465088;3.0;3.0
+TbRhO3;perovskite;True;True;(('O', 3), ('Rh', 1), ('Tb', 1));1.0;True;False;0.8543493554772088;0.475;3.010267679976097;3.0;3.0
+TbScO3;perovskite;True;True;(('O', 3), ('Sc', 1), ('Tb', 1));;False;False;0.8224855100514853;0.5321428571428571;4.328441291437896;3.0;3.0
+TbVO3;perovskite;True;True;(('O', 3), ('Tb', 1), ('V', 1));;False;False;0.8648193230688411;0.4571428571428572;2.7450720422779096;3.0;3.0
+TcO3F;non-perovskite (B not octahedral);False;False;(('F', 1), ('O', 3), ('Tc', 1));;False;False;;;;;
+TcPbO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('O', 3), ('Pb', 1), ('Tc', 1));;False;False;0.9992853778137516;0.4607142857142857;3.6885880534897786;2.0;4.0
+TeHO3;non-perovskite (B not octahedral);False;False;(('H', 1), ('O', 3), ('Te', 1));;False;True;;;;;
+TePbO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Pb', 1), ('Te', 1));-1.0;True;True;0.862252572839292;0.6928571428571428;4.600596498055692;2.0;4.0
+TiBO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('B', 1), ('O', 3), ('Ti', 1));-1.0;True;True;0.8764736748839241;0.1928571428571429;4.376192852468441;3.0;3.0
+TiCdO3;non-perovskite (edge-sharing BO6);True;False;(('Cd', 1), ('O', 3), ('Ti', 1));1.0;True;False;0.9557403376636128;0.4321428571428571;3.919584923993256;2.0;4.0
+TiCoO3;non-perovskite (edge-sharing BO6);False;False;(('Co', 1), ('O', 3), ('Ti', 1));-1.0;True;False;0.8111449360244685;0.4321428571428571;5.805134736540115;2.0;4.0
+TiFeO3;non-perovskite (edge-sharing BO6);False;False;(('Fe', 1), ('O', 3), ('Ti', 1));-1.0;True;False;0.8181983702507681;0.4321428571428571;5.570060694356302;2.0;4.0
+TiHgO3;perovskite;True;True;(('Hg', 1), ('O', 3), ('Ti', 1));1.0;True;False;0.8957861467400652;0.4321428571428571;4.262380111329842;2.0;4.0
+TiMnO3;non-perovskite (edge-sharing BO6);True;False;(('Mn', 1), ('O', 3), ('Ti', 1));-1.0;True;False;0.715751118364867;0.4607142857142857;75.11880707713071;3.0;3.0
+TiNiO3;non-perovskite (edge-sharing BO6);False;False;(('Ni', 1), ('O', 3), ('Ti', 1));-1.0;True;False;0.7370838766483213;0.4321428571428571;15.664857905850193;2.0;4.0
+TiPbO3;perovskite;True;True;(('O', 3), ('Pb', 1), ('Ti', 1));1.0;True;False;1.0192212457003105;0.4321428571428571;3.7790487686777854;2.0;4.0
+TiZnO3;non-perovskite (edge-sharing BO6);False;False;(('O', 3), ('Ti', 1), ('Zn', 1));-1.0;True;False;0.8111449360244685;0.4321428571428571;5.805134736540115;2.0;4.0
+TlBrO3;non-perovskite (B not octahedral);False;False;(('Br', 1), ('O', 3), ('Tl', 1));-1.0;True;True;1.281889486361577;0.2214285714285714;6.738502267787939;1.0;5.0
+TlClO3;non-perovskite (B not octahedral);False;False;(('Cl', 1), ('O', 3), ('Tl', 1));;False;True;1.442125672156774;0.0857142857142857;16.010780196588403;1.0;5.0
+TlCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Tl', 1));;False;False;0.8351931212029694;0.4392857142857143;3.536514810813988;3.0;3.0
+TlFeO3;perovskite;True;True;(('Fe', 1), ('O', 3), ('Tl', 1));;False;False;0.8229408993760308;0.4607142857142857;4.067303247941256;3.0;3.0
+TlIO3;non-perovskite (B not octahedral);True;False;(('I', 1), ('O', 3), ('Tl', 1));1.0;True;True;0.9327791581609776;0.6785714285714286;3.548795792496673;1.0;5.0
+TlNO3;non-perovskite (B not octahedral);False;False;(('N', 1), ('O', 3), ('Tl', 1));-1.0;True;True;1.4327000141688215;0.0928571428571428;14.85584716408156;1.0;5.0
+TlNiO3;perovskite;True;True;(('Ni', 1), ('O', 3), ('Tl', 1));1.0;True;False;0.8414570696119914;0.4285714285714286;3.320636893204111;3.0;3.0
+TlPO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('P', 1), ('Tl', 1));;False;True;1.2314781020664591;0.2714285714285714;5.670225444386853;1.0;5.0
+TlSbO3;non-perovskite (edge-sharing BO6);False;False;(('O', 3), ('Sb', 1), ('Tl', 1));-1.0;True;False;1.0960155108391485;0.4285714285714286;4.05388908891188;1.0;5.0
+TlVO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Tl', 1), ('V', 1));-1.0;True;False;0.8249579113843053;0.4571428571428572;3.968814806537537;3.0;3.0
+TmBO3;non-perovskite (edge-sharing BO6);False;False;(('B', 1), ('O', 3), ('Tm', 1));-1.0;True;True;1.038219058364919;0.1928571428571429;4.779789373824573;3.0;3.0
+TmCoO3;perovskite;True;True;(('Co', 1), ('O', 3), ('Tm', 1));;False;False;0.8625999141638878;0.4357142857142857;2.7884228446797987;3.0;3.0
+TmCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Tm', 1));1.0;True;False;0.8604594677267567;0.4392857142857143;2.835769959519633;3.0;3.0
+TmFeO3;non-perovskite (B not octahedral);True;False;(('Fe', 1), ('O', 3), ('Tm', 1));1.0;True;False;0.8478365904495914;0.4607142857142857;3.1726736554752275;3.0;3.0
+TmMnO3;non-perovskite (B not octahedral);True;False;(('Mn', 1), ('O', 3), ('Tm', 1));;False;False;0.8478365904495914;0.4607142857142857;3.1726736554752275;3.0;3.0
+TmNiO3;perovskite;True;True;(('Ni', 1), ('O', 3), ('Tm', 1));1.0;True;False;0.8669129137347071;0.4285714285714286;2.700785643066351;3.0;3.0
+TmVO3;perovskite;True;True;(('O', 3), ('Tm', 1), ('V', 1));;False;False;0.8499146213085363;0.4571428571428572;3.1099271547941214;3.0;3.0
+VAgO3;non-perovskite (edge-sharing BO6);False;False;(('Ag', 1), ('O', 3), ('V', 1));-1.0;True;False;0.9768279245257458;0.3857142857142858;4.339108738198286;1.0;5.0
+VBO3;non-perovskite (A under-coordinated);False;False;(('B', 1), ('O', 3), ('V', 1));-1.0;True;True;0.863771157856621;0.1928571428571429;4.424733622002267;3.0;3.0
+VCdO3;non-perovskite (edge-sharing BO6);True;False;(('Cd', 1), ('O', 3), ('V', 1));;False;False;0.9678077661694664;0.4142857142857142;3.958091929669541;2.0;4.0
+VCuO3;non-perovskite (edge-sharing BO6);True;False;(('Cu', 1), ('O', 3), ('V', 1));-1.0;True;False;0.7909390284406227;0.3857142857142858;5.611307431186722;1.0;5.0
+VHgO3;non-perovskite (B not octahedral);False;False;(('Hg', 1), ('O', 3), ('V', 1));;False;False;0.9440240016871948;0.3857142857142858;4.381598651375546;1.0;5.0
+VPbO3;non-perovskite (B not octahedral);True;False;(('O', 3), ('Pb', 1), ('V', 1));;False;False;1.032090200822789;0.4142857142857142;3.85938196311384;2.0;4.0
+YAlO3;perovskite;True;True;(('Al', 1), ('O', 3), ('Y', 1));1.0;True;False;0.9044389061688396;0.3821428571428572;2.2553405776982967;3.0;3.0
+YBO3;non-perovskite (B not octahedral);False;False;(('B', 1), ('O', 3), ('Y', 1));-1.0;True;True;1.047957654752518;0.1928571428571429;4.830218314919228;3.0;3.0
+YCoO3;perovskite;True;True;(('Co', 1), ('O', 3), ('Y', 1));1.0;True;False;0.8706911857894055;0.4357142857142857;2.625697534416448;3.0;3.0
+YCrO3;perovskite;True;True;(('Cr', 1), ('O', 3), ('Y', 1));1.0;True;False;0.8685306617551887;0.4392857142857143;2.6664629678358045;3.0;3.0
+YFeO3;perovskite;True;True;(('Fe', 1), ('O', 3), ('Y', 1));1.0;True;False;0.8557893806536453;0.4607142857142857;2.9586185805150045;3.0;3.0
+YGaO3;non-perovskite (B not octahedral);False;False;(('Ga', 1), ('O', 3), ('Y', 1));1.0;True;False;0.8663808333845072;0.4428571428571429;2.7094169711971148;3.0;3.0
+YInO3;non-perovskite (B not octahedral);False;False;(('In', 1), ('O', 3), ('Y', 1));-1.0;True;False;0.7954951288348657;0.5714285714285715;6.393784336915555;3.0;3.0
+YMnO3;non-perovskite (B not octahedral);True;False;(('Mn', 1), ('O', 3), ('Y', 1));1.0;True;False;0.8557893806536453;0.4607142857142857;2.9586185805150045;3.0;3.0
+YNiO3;perovskite;True;True;(('Ni', 1), ('O', 3), ('Y', 1));1.0;True;False;0.8750446417183524;0.4285714285714286;2.550574590069396;3.0;3.0
+YScO3;perovskite;True;True;(('O', 3), ('Sc', 1), ('Y', 1));1.0;True;False;0.8158924398306315;0.5321428571428571;4.684367201012311;3.0;3.0
+YTiO3;perovskite;True;True;(('O', 3), ('Ti', 1), ('Y', 1));1.0;True;False;0.8454537601143501;0.4785714285714286;3.270285898453773;3.0;3.0
+YVO3;perovskite;True;True;(('O', 3), ('V', 1), ('Y', 1));1.0;True;False;0.8578869036454434;0.4571428571428572;2.9040195891253955;3.0;3.0
+YbBO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('B', 1), ('O', 3), ('Yb', 1));;False;True;1.0339848860224845;0.1928571428571429;4.758298734380037;3.0;3.0
+ZnCO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('C', 1), ('O', 3), ('Zn', 1));;False;True;1.042529228672474;0.1142857142857143;11.263353148268235;2.0;4.0
+ZnGeO3;non-perovskite (edge-sharing BO6);False;False;(('Ge', 1), ('O', 3), ('Zn', 1));-1.0;True;True;0.8426661122948492;0.3785714285714286;5.0553196822884345;2.0;4.0
+ZnPbO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('O', 3), ('Pb', 1), ('Zn', 1));;False;False;0.7731915270918324;0.5285714285714286;7.131233467438598;4.0;2.0
+ZnSeO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Se', 1), ('Zn', 1));-1.0;True;True;0.8559713666995048;0.3571428571428571;4.924671100865292;2.0;4.0
+ZnSiO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Si', 1), ('Zn', 1));-1.0;True;True;0.903525331516144;0.2857142857142857;5.04918279034697;2.0;4.0
+ZnSnO3;non-perovskite (corner-sharing, A outside cavity);False;False;(('O', 3), ('Sn', 1), ('Zn', 1));-1.0;True;False;0.7781557879086408;0.4928571428571428;7.847068197293373;2.0;4.0
+ZnTeO3;non-perovskite (B not octahedral);False;False;(('O', 3), ('Te', 1), ('Zn', 1));-1.0;True;True;0.7831042389776252;0.5285714285714286;5.264967663749893;4.0;2.0
+ZrPbO3;perovskite;True;True;(('O', 3), ('Pb', 1), ('Zr', 1));1.0;True;False;0.9639333007684536;0.5142857142857143;3.635358294804355;2.0;4.0

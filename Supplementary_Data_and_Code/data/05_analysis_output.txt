@@ -1,0 +1,107 @@
+== Data and labels
+entries 2563, compositions 1319
+bond-valence failures 469; site rules {'only octahedral cation': 1801, 'neither octahedral: lower CN': 477, 'both octahedral: higher valence': 132, 'both octahedral: shorter M-O': 94, 'neither octahedral: shorter M-O': 59}
+ambiguous 2, errors 0, entries > 0.5 eV/atom 421
+entries used 2140; relabelled by A-O rule 28 (A elements {'Se': 7, 'B': 5, 'Li': 4, 'I': 3, 'Te': 3, 'Hg': 2, 'N': 2, 'C': 1, 'Fe': 1})
+entry topology: {'perovskite': 1121, 'non-perovskite (B not octahedral)': 467, 'non-perovskite (edge-sharing BO6)': 343, 'non-perovskite (corner-sharing, A outside cavity)': 114, 'non-perovskite (face-sharing BO6)': 67, 'non-perovskite (A under-coordinated)': 28}
+compositions with ICSD-matched entry 440; L1 perovskite 203, L2 perovskite 235, L1 != L2: 32
+
+== Agreement with Bartel's experimental labels (317 shared oxide compositions)
+  L1: 90.9% [87.2-93.6]  (exp perovskite & ours not: 29; ours perovskite & exp not: 0)
+  L2: 97.2% [94.7-98.5]  (exp perovskite & ours not: 6; ours perovskite & exp not: 3)
+  sensitivity, no A-O rule: L1 88.3% [84.3-91.4], L2 93.4% [90.1-95.6]
+  sensitivity, no energy filter: L1 90.9% [87.2-93.6], L2 97.2% [94.7-98.5]
+  disagreements (exp label, L1 topology, L2):
+         exp_label                                        L1_topology     L2
+Formula                                                                     
+BaIrO3         1.0                  non-perovskite (face-sharing BO6)   True
+CaGeO3         1.0                  non-perovskite (B not octahedral)   True
+CaIrO3         1.0                  non-perovskite (edge-sharing BO6)   True
+CaSiO3         1.0                  non-perovskite (B not octahedral)   True
+CdGeO3         1.0                  non-perovskite (edge-sharing BO6)   True
+CdSnO3         1.0                  non-perovskite (edge-sharing BO6)   True
+CsIO3          1.0                  non-perovskite (B not octahedral)  False
+DyMnO3         1.0                  non-perovskite (B not octahedral)   True
+ErMnO3         1.0                  non-perovskite (B not octahedral)   True
+GePbO3         1.0                  non-perovskite (B not octahedral)   True
+HoMnO3         1.0                  non-perovskite (B not octahedral)   True
+InBiO3         1.0  non-perovskite (corner-sharing, A outside cavity)   True
+KIO3           1.0                  non-perovskite (B not octahedral)   True
+LuFeO3         1.0                  non-perovskite (B not octahedral)   True
+LuMnO3         1.0                  non-perovskite (B not octahedral)   True
+MgSiO3         1.0                  non-perovskite (edge-sharing BO6)   True
+NaIO3          1.0               non-perovskite (A under-coordinated)  False
+NaSbO3         1.0                  non-perovskite (edge-sharing BO6)   True
+RbIO3          1.0                  non-perovskite (B not octahedral)  False
+RbNbO3         1.0                  non-perovskite (edge-sharing BO6)  False
+RbTaO3         1.0                  non-perovskite (edge-sharing BO6)  False
+SrGeO3         1.0                  non-perovskite (B not octahedral)   True
+SrIrO3         1.0                  non-perovskite (face-sharing BO6)   True
+SrMnO3         1.0                  non-perovskite (face-sharing BO6)   True
+SrSiO3        -1.0                  non-perovskite (B not octahedral)   True
+TiCdO3         1.0                  non-perovskite (edge-sharing BO6)   True
+TiMnO3        -1.0                  non-perovskite (edge-sharing BO6)   True
+TlIO3          1.0                  non-perovskite (B not octahedral)   True
+TmFeO3         1.0                  non-perovskite (B not octahedral)   True
+VCuO3         -1.0                  non-perovskite (edge-sharing BO6)   True
+YGaO3          1.0                  non-perovskite (B not octahedral)  False
+YMnO3          1.0                  non-perovskite (B not octahedral)   True
+
+== Descriptor accuracy (compositions with Bartel descriptors: 413 of 440)
+  all                         L1 n=413 baseline 51.3% [46.5-56.1] | conv 78.2% [74.0-81.9] (rec 88, spec 69) | t-bounds 72.2% [67.6-76.3] (rec 94, spec 52) | tau 83.1% [79.1-86.4] (rec 95, spec 72)
+  all                         L2 n=413 baseline 56.4% [51.6-61.1] | conv 81.1% [77.1-84.6] (rec 85, spec 76) | t-bounds 77.0% [72.7-80.8] (rec 92, spec 58) | tau 87.9% [84.4-90.7] (rec 93, spec 82)
+  oxoanion only               L1 n=125 baseline 100.0% [97.0-100.0] | conv 90.4% [84.0-94.4] (rec 0, spec 90) | t-bounds 54.4% [45.7-62.9] (rec 0, spec 54) | tau 90.4% [84.0-94.4] (rec 0, spec 90)
+  oxoanion only               L2 n=125 baseline 92.8% [86.9-96.2] | conv 86.4% [79.3-91.3] (rec 22, spec 91) | t-bounds 58.4% [49.6-66.7] (rec 78, spec 57) | tau 92.8% [86.9-96.2] (rec 67, spec 95)
+  no oxoanion                 L1 n=288 baseline 69.8% [64.3-74.8] | conv 72.9% [67.5-77.7] (rec 88, spec 38) | t-bounds 79.9% [74.9-84.1] (rec 94, spec 48) | tau 79.9% [74.9-84.1] (rec 95, spec 46)
+  no oxoanion                 L2 n=288 baseline 77.8% [72.6-82.2] | conv 78.8% [73.7-83.1] (rec 88, spec 47) | t-bounds 85.1% [80.5-88.7] (rec 92, spec 59) | tau 85.8% [81.3-89.3] (rec 94, spec 58)
+  out-of-sample               L1 n= 96 baseline 57.3% [47.3-66.7] | conv 72.9% [63.3-80.8] (rec 85, spec 64) | t-bounds 62.5% [52.5-71.5] (rec 85, spec 45) | tau 74.0% [64.4-81.7] (rec 85, spec 65)
+  out-of-sample               L2 n= 96 baseline 51.0% [41.2-60.8] | conv 79.2% [70.0-86.1] (rec 87, spec 71) | t-bounds 64.6% [54.6-73.4] (rec 83, spec 47) | tau 80.2% [71.1-86.9] (rec 87, spec 73)
+  out-of-sample, no oxoanion  L1 n= 66 baseline 62.1% [50.1-72.9] | conv 66.7% [54.7-76.8] (rec 85, spec 36) | t-bounds 65.2% [53.1-75.5] (rec 85, spec 32) | tau 65.2% [53.1-75.5] (rec 85, spec 32)
+  out-of-sample, no oxoanion  L2 n= 66 baseline 71.2% [59.4-80.7] | conv 75.8% [64.2-84.5] (rec 87, spec 47) | t-bounds 68.2% [56.2-78.2] (rec 83, spec 32) | tau 74.2% [62.6-83.3] (rec 87, spec 42)
+
+== Failure decomposition (all compositions, L1)
+  conventional window: FP 66 by L1 topology {'non-perovskite (B not octahedral)': 25, 'non-perovskite (edge-sharing BO6)': 23, 'non-perovskite (corner-sharing, A outside cavity)': 9, 'non-perovskite (face-sharing BO6)': 7, 'non-perovskite (A under-coordinated)': 2}
+     FN 24: mu<0.414 20, t<0.80 4, t>1.10 0, mu>0.732 0
+  tau: FP 59 by L1 topology {'non-perovskite (B not octahedral)': 23, 'non-perovskite (edge-sharing BO6)': 20, 'non-perovskite (face-sharing BO6)': 11, 'non-perovskite (corner-sharing, A outside cavity)': 5}
+     FN 11
+
+== Perovskite fraction by Bartel t (mu inside window, all compositions)
+  [0.0, 0.825)     L1 12/45   L2 13/45
+  [0.825, 0.9)     L1 81/101   L2 90/101
+  [0.9, 1.0)       L1 75/95   L2 84/95
+  [1.0, 1.059)     L1 12/17   L2 14/17
+  [1.059, 1.1)     L1 1/8   L2 3/8
+  [1.1, 9.0)       L1 0/1   L2 0/1
+  upper window 1.059 <= t <= 1.10:
+         bartel_t  bartel_tau                        L1_topology     L2  exp_label
+Formula                                                                           
+BaTiO3      1.062       3.752                         perovskite   True        1.0
+BaRhO3      1.064       3.770  non-perovskite (face-sharing BO6)  False        NaN
+BaFeO3      1.072       3.830  non-perovskite (face-sharing BO6)   True        NaN
+KSbO3       1.075       4.052  non-perovskite (edge-sharing BO6)  False       -1.0
+BaVO3       1.075       3.852  non-perovskite (face-sharing BO6)   True        NaN
+RbNbO3      1.081       3.906  non-perovskite (edge-sharing BO6)  False        1.0
+RbTaO3      1.081       3.906  non-perovskite (edge-sharing BO6)  False        1.0
+TlSbO3      1.096       4.054  non-perovskite (edge-sharing BO6)  False       -1.0
+
+== Case-study entries
+Formula Material ID Space Group  Energy Above Hull  Volume per atom  Theoretical B_struct  B_bv                   topology_struct
+ RbNbO3     mp-3283         P-1             0.0000          17.7167        False       Nb   5.0 non-perovskite (edge-sharing BO6)
+ RbNbO3   mp-756063        C2/m             0.0243          17.5535         True       Nb   5.0 non-perovskite (edge-sharing BO6)
+ RbNbO3  mp-1075911       Pm-3m             0.0827          13.7727         True       Nb   5.0                        perovskite
+   Bartel descriptors: t=1.081 mu=0.457 tau=3.906; Bartel experimental label 1.0
+Formula Material ID Space Group  Energy Above Hull  Volume per atom  Theoretical B_struct  B_bv                   topology_struct
+ RbTaO3     mp-3033        C2/m             0.0000          16.6993        False       Ta   5.0 non-perovskite (edge-sharing BO6)
+ RbTaO3   mp-780619         P-1             0.0102          17.5658         True       Ta   5.0 non-perovskite (edge-sharing BO6)
+ RbTaO3   mp-755018         R3m             0.0526          13.6991         True       Ta   5.0                        perovskite
+ RbTaO3  mp-1076534       Pm-3m             0.0567          13.4960         True       Ta   5.0                        perovskite
+   Bartel descriptors: t=1.081 mu=0.457 tau=3.906; Bartel experimental label 1.0
+Formula Material ID Space Group  Energy Above Hull  Volume per atom  Theoretical B_struct  B_bv                   topology_struct
+ CsNbO3    mp-27556      P2_1/c             0.0000          19.2394        False       Nb   5.0 non-perovskite (edge-sharing BO6)
+ CsNbO3  mp-1096944       Pm-3m             0.2513          14.5119         True       Nb   5.0                        perovskite
+   Bartel descriptors: t=1.137 mu=0.457 tau=3.914; Bartel experimental label -1.0
+Formula Material ID Space Group  Energy Above Hull  Volume per atom  Theoretical B_struct  B_bv                                   topology_struct
+  KSbO3   mp-547792         R-3             0.0000          15.3646        False       Sb   5.0                 non-perovskite (edge-sharing BO6)
+  KSbO3    mp-14607        Pn-3             0.0184          14.7442        False       Sb   5.0                 non-perovskite (edge-sharing BO6)
+  KSbO3    mp-16293       Fd-3m             0.0447          15.0090        False       Sb   5.0 non-perovskite (corner-sharing, A outside cavity)
+   Bartel descriptors: t=1.075 mu=0.429 tau=4.052; Bartel experimental label -1.0
